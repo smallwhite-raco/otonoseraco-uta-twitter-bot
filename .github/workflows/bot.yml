@@ -16,6 +16,7 @@ on:
     - cron: '42 11 * * *'
     - cron: '42 12 * * *'
     - cron: '42 13 * * *'
+    - cron: '*/5 * * * *'  # 每 5 分鐘 run 一次（測試用）
   workflow_dispatch:       # 允許手動執行
 
 jobs:
