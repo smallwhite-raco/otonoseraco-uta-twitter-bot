@@ -2,9 +2,20 @@ name: Tweet 3 Times Daily
 
 on:
   schedule:
-    - cron: '3 3 * * *'   # 香港時間上午10點（UTC+8）
-    - cron: '3 8 * * *'   # 下午4點
-    - cron: '3 14 * * *'  # 晚上10點
+    # - cron: '3 3 * * *'   # 香港時間上午10點（UTC+8）
+    # - cron: '3 8 * * *'   # 下午4點
+    # - cron: '3 14 * * *'  # 晚上10點
+    - cron: '33 3 * * *'
+    - cron: '33 4 * * *'
+    - cron: '33 5 * * *'
+    - cron: '33 6 * * *'
+    - cron: '33 7 * * *'
+    - cron: '33 8 * * *'
+    - cron: '33 9 * * *'
+    - cron: '33 10 * * *'
+    - cron: '33 11 * * *'
+    - cron: '33 12 * * *'
+    - cron: '33 13 * * *'
   workflow_dispatch:       # 允許手動執行
 
 jobs:
