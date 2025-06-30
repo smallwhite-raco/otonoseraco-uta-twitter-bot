@@ -1,0 +1,14 @@
+name: Schedule Debug Logger
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # 每 10 分鐘執行一次（UTC 時間）
+  workflow_dispatch:         # 亦支援手動觸發
+
+jobs:
+  debug-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print current time
+        run: |
+          echo "✅ Schedule triggered at: $(date -u)"
