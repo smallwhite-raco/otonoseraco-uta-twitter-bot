@@ -2,18 +2,19 @@ import csv
 import random
 import json
 import os
+from datetime import datetime
 
 HISTORY_LIMIT = 100
 
 # 讀舊 history
-if os.path.exists("history.json"):
+if os.path.exists("history.json") and os.path.getsize("history.json") > 0:
     with open("history.json", "r", encoding="utf-8") as f:
         history = json.load(f)
 else:
     history = []
 
 # 讀 CSV：A = title、B = link
-with open("videos.csv", newline='', encoding='utf-8') as csvfile:
+with open("playlist.csv", newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
     next(reader)  # skip header
     videos = [(row[1], row[0]) for row in reader if row[1].startswith("http") and row[0].strip() != ""]
@@ -39,3 +40,13 @@ history += [l for l, _ in chosen]
 history = history[-HISTORY_LIMIT:]  # 保留最後 100 條
 with open("history.json", "w", encoding="utf-8") as f:
     json.dump(history, f, ensure_ascii=False)
+
+
+log_lines = [
+    f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} 🎲 抽出 queue："
+]
+for link, title in chosen:
+    log_lines.append(f"- {title} ({link})")
+
+with open("queue_log.txt", "a", encoding="utf-8") as f:
+    f.write("\n".join(log_lines) + "\n")
