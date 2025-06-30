@@ -24,10 +24,6 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Decode Google credentials
-        run: |
-          echo "${{ secrets.GOOGLE_CREDENTIALS }}" | base64 -d > credentials.json
-
       - name: Refresh tweet queue
         run: python refresh_queue.py
 
@@ -38,3 +34,13 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
         run: python bot.py
+
+      - name: Commit and push updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tweet_queue.json history.json tweet_log.txt queue_log.txt
+          git commit -m "🤖 Update queue and logs"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
