@@ -1,4 +1,4 @@
-name: Tweet 3 Times Daily
+name: Auto tweet bot
 
 on:
   schedule:
