@@ -3,8 +3,8 @@ name: Auto tweet bot
 on:
   schedule:
     # - cron: '*/5 * * * *'  # 每 5 分鐘 run 一次（測試用）
-    # - cron: '3 3 * * *'   # 香港時間上午10點（UTC+8）
-    # - cron: '3 8 * * *'   # 下午4點
+    # - cron: '0 3 * * *'   # 香港時間上午10點（UTC+8）
+    - cron: '0 8 * * *'   # 下午4點
     # - cron: '3 14 * * *'  # 晚上10點
   workflow_dispatch:       # 允許手動執行
 
