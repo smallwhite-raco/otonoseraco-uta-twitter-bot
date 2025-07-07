@@ -2,7 +2,7 @@ name: Auto tweet bot
 
 on:
   schedule:
-    - cron: '32 8 * * *'  
+    - cron: '32 12 * * *'  
   workflow_dispatch:       # 允許手動執行
 
 jobs:
