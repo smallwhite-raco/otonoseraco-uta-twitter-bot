@@ -2,10 +2,7 @@ name: Auto tweet bot
 
 on:
   schedule:
-    # - cron: '*/5 * * * *'  # 每 5 分鐘 run 一次（測試用）
-    # - cron: '0 3 * * *'   # 香港時間上午10點（UTC+8）
-    - cron: '32 8 * * *'   # 下午4點
-    # - cron: '3 14 * * *'  # 晚上10點
+    - cron: '32 8 * * *'  
   workflow_dispatch:       # 允許手動執行
 
 jobs:
@@ -27,6 +24,12 @@ jobs:
 
       - name: Refresh tweet queue
         run: python refresh_queue.py
+
+      - name: Notify Telegram - Workflow Started
+        run: |
+          curl -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+              -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+              -d "text=🚀 Workflow 開始執行：Twitter bot 正在啟動"
 
       - name: Run bot
         env:

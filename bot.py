@@ -14,8 +14,6 @@ def notify_telegram(message):
     payload = {"chat_id": chat_id, "text": message}
     requests.post(url, data=payload)
 
-notify_telegram("🚀 Workflow 開始執行：Twitter bot 正在啟動")
-
 # ⚙️ 載入設定
 with open("config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
