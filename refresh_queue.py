@@ -4,7 +4,7 @@ import json
 import os
 from datetime import datetime
 
-HISTORY_LIMIT = 100
+HISTORY_LIMIT = 200
 
 # 讀舊 history
 if os.path.exists("history.json") and os.path.getsize("history.json") > 0:
