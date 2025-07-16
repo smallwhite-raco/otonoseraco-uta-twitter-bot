@@ -23,13 +23,13 @@ with open("playlist.csv", newline='', encoding='utf-8') as csvfile:
 unposted = [(link, title) for link, title in videos if link not in history]
 
 # 如果唔夠新片，就重設 history
-if len(unposted) < 3:
+if len(unposted) < 1:
     print("⚠️ 未發過嘅片唔夠 3 條 → 清空紀錄重新洗牌")
     unposted = videos
     history = []
 
 # 抽出 3 條
-chosen = random.sample(unposted, 3)
+chosen = random.sample(unposted, 1)
 
 # 儲存至 queue.json
 with open("tweet_queue.json", "w", encoding="utf-8") as f:
