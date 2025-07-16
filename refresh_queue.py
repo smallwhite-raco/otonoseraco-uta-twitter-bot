@@ -24,7 +24,6 @@ unposted = [(link, title) for link, title in videos if link not in history]
 
 # 如果唔夠新片，就重設 history
 if len(unposted) < 1:
-    print("⚠️ 未發過嘅片唔夠 3 條 → 清空紀錄重新洗牌")
     unposted = videos
     history = []
 
