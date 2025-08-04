@@ -1,780 +1,94 @@
-2025-06-30 03:23:18 🎲 抽出 queue：
-- 泥中に咲く / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=eSQydVrOfjg)
-- Ghost of a Smile / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DpAucRG3cEI)
-- 晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1fnexQfhrL0)
-2025-06-30 05:04:48 🎲 抽出 queue：
-- アタシは問題作 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DF0WNPzzuaw)
-- Bunny Girl / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rQaLFRJjG68)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iBmYpdpK54M)
-2025-06-30 08:00:12 🎲 抽出 queue：
-- デモーニッシュ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JZxQcgthiaw)
-- 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dZlYHYG6RPs)
-- キャットラビング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ye9A0eYcpyc)
-2025-06-30 08:55:06 🎲 抽出 queue：
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=73RZ9mvdF74)
-- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JO6t2ksZdJQ)
-- 【アカペラバラード】晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=o20f9JR2gJI)
-2025-06-30 12:00:13 🎲 抽出 queue：
-- ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ABWiOX8NRic)
-- 【アカペラバラード】波に名前をつけること、僕らの呼吸に終わりがあること。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PyS3nIUXsoE)
-- 天ノ弱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=T-65i6CLeME)
-2025-06-30 14:44:19 🎲 抽出 queue：
-- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-3OKjVD2DrI)
-- 8番出口 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NkHU1O2QkAY)
-- ロキ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fOMn_Xk1DEM)
-2025-06-30 15:00:15 🎲 抽出 queue：
-- Ghost of a Smile / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_MWFX312G0Y)
-- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NzG5-grtI8o)
-- Dec / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s8GoWzAeVX8)
-2025-06-30 23:00:22 🎲 抽出 queue：
-- 曖昧劣情Lover / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=63r4h56g3IA)
-- 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=d0RKrz0MC2g)
-- テオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lhBLn0YiJGg)
-2025-07-01 03:00:12 🎲 抽出 queue：
-- 絶頂讃歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M-sTrYXHwk8)
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rtlRU86Rb1k)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3rwGhbucU9o)
-2025-07-01 04:52:12 🎲 抽出 queue：
-- バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OOfiDBHmfEg)
-- ラヴィット / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-J-60ohQ5wo)
-- 名前のない怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ND4pb05rJFc)
-2025-07-01 08:00:13 🎲 抽出 queue：
-- Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GS6FgyDkGUU)
-- 【アカペラバラード】15歳の主張 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Hu1Due3JL3o)
-- 天ノ弱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vJEJAfK2hhI)
-2025-07-01 08:55:38 🎲 抽出 queue：
-- 心という名の不可解 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=V_vYeleyj5g)
-- ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=16LbNnKXTCg)
-- 【イケボ】砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=y-6tSBeAtCU)
-2025-07-01 12:00:16 🎲 抽出 queue：
-- エバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=g5A6mqekJuo)
-- ラヴィ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=K8n9kLjHCAY)
-- 【アニメ声】グッバイ宣言 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=apePfCtQToU)
-2025-07-01 14:40:23 🎲 抽出 queue：
-- 祝福 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0nL12Ajw4pI)
-- 明日への手紙 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jhefreCEm6U)
-- POP IN 2【歌い手グループ】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SCM4hgkGshI)
-2025-07-01 15:00:15 🎲 抽出 queue：
-- Tot Musica / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r_zT1ZiwqoI)
-- 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tx6eIuDC2tM)
-- モニタリング【通常ver. 】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kgZ0ADSX7lc)
-2025-07-02 04:21:44 🎲 抽出 queue：
-- 366日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pGmgehkWokY)
-- 名前のない怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6E5KSQCXJ9c)
-- ハロ／ハワユ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=G8mheatBSc0)
-2025-07-02 04:43:47 🎲 抽出 queue：
-- 夏恋花火 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DU_N9lqtK5Y)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lbX5pC2VZVc)
-- ダーリン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=eo3Tqj4DDE0)
-2025-07-02 08:00:14 🎲 抽出 queue：
-- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OmnkDQNFc0I)
-- 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OIT_bdDIR3o)
-- チュルリラ・チュルリラ・ダッダッダ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sIIEzjNwl6s)
-2025-07-02 08:55:14 🎲 抽出 queue：
-- トゥインクル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MiA_732Ih3g)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=l0PfpvlATvk)
-- フォニイ【歌い手グループ】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wqK6HqGvg5o)
-2025-07-02 12:00:14 🎲 抽出 queue：
-- 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yZhZUh2VdLs)
-- ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uQadixZW_cw)
-- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lvbbqPoObEU)
-2025-07-02 14:43:57 🎲 抽出 queue：
-- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=J6u-mcYxbA4)
-- かくれんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QSorEsT49TY)
-- 六兆年と一夜物語 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EvRfglCSjyo)
-2025-07-02 15:00:18 🎲 抽出 queue：
-- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=UD57tKAJmsI)
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=K5Vis28lkvk)
-- 弱虫モンブラン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hkIjx_z8yMI)
-2025-07-02 23:00:13 🎲 抽出 queue：
-- 酔いどれ知らず / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tfmcpkTJzGA)
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C4crxU7cd-Q)
-- 家に帰ると妻が必ず死んだふりをしています / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cQtTKR27vQw)
-2025-07-03 03:00:13 🎲 抽出 queue：
-- 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pJ2e65suspw)
-- UNDEAD【通常ver. 】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_lCMQEu2vu4)
-- メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r1I9OD2FIO8)
-2025-07-03 04:48:04 🎲 抽出 queue：
-- キメラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZKQ5nUzY4TI)
-- 脳裏上のクラッカー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ugx1ZQh43K4)
-- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wZMhP6owys8)
-2025-07-03 08:00:12 🎲 抽出 queue：
-- 【アカペラバラード】モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xDJ1vjvrS90)
-- ハナタバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M8PXCFCuhQ0)
-- 回る空うさぎ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cu1-dkiIaJw)
-2025-07-03 08:53:28 🎲 抽出 queue：
-- Dec / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qgJoPC9sEFs)
-- ダダダダ天使 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LS9yzmB4Op8)
-- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=63Q_iTz85nQ)
-2025-07-03 12:00:15 🎲 抽出 queue：
-- ニア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KgMuuzsrTsA)
-- クリスマスソング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iz32oitZ8jk)
-- さよならエレジー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=n8kfTv48Gis)
-2025-07-03 14:43:17 🎲 抽出 queue：
-- 鬼ノ宴 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Sxjm-fWPfkk)
-- ブリキノダンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1_IP3eMEUvE)
-- 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TyScQLaK_sg)
-2025-07-03 15:00:13 🎲 抽出 queue：
-- 残機 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ahD2wUZXMVk)
-- メズマライザー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lW0E6ZiGTVs)
+2025-07-21 14:00:19 extract queue：
+- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GTdiB3ojxkU)
+2025-07-21 15:00:29 extract queue：
+- 【アカペラバラード】メズマライザー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ov0AOLMzV0M)
+2025-07-21 22:00:17 extract queue：
+- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=S88Ry0dRpqs)
+2025-07-21 23:00:18 extract queue：
+- アタシは問題作 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SjWr4-dV2rg)
+2025-07-22 03:00:17 extract queue：
+- ジレンマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Pdc19MKod4A)
+2025-07-22 04:00:17 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EJLQ0K4Z0tY)
+2025-07-22 08:00:19 extract queue：
+- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MGGI3sc8kuo)
+2025-07-22 09:00:17 extract queue：
 - 高嶺の花子さん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yRIJq989QlM)
-2025-07-03 23:00:15 🎲 抽出 queue：
-- 【アカペラバラード】夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qKcdJy6FOgg)
-- メランコリック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nijcVKfgQs4)
-- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3Q8Xt6wVa9Y)
-2025-07-04 03:00:14 🎲 抽出 queue：
-- 鬼ノ宴/ 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pmEdoIcpEHc)
-- 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PZZA2Zcmy-Q)
-- 【アカペラバラード】声 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WEd0n1qz754)
-2025-07-04 04:45:50 🎲 抽出 queue：
-- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uq8-OKMOLGc)
-- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=I-xD6LwOZq8)
-- 太陽系デスコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oF2fpKtI570)
-2025-07-04 08:00:13 🎲 抽出 queue：
-- 名前のない怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=l3IhwTxAQ24)
-- ヴィラン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MWpG6u6UClU)
-- 悪魔の子 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dPHevWMR7FA)
-2025-07-04 08:53:22 🎲 抽出 queue：
-- ワールズエンド・ダンスホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6ruSaKRKyK0)
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=XyABwzoxd0E)
-- ダイダイダイダイダイキライ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=c7bqhg-Xm8A)
-2025-07-04 12:01:42 🎲 抽出 queue：
-- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=n_Hif3MaaNU)
-- 晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1fnexQfhrL0)
-- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3op3xczgVqA)
-2025-07-04 14:41:46 🎲 抽出 queue：
-- ワールドイズマイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EnZr2J6wmw4)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rPLB0ilYno8)
-- ピースサイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pM749gc5o2o)
-2025-07-04 15:00:13 🎲 抽出 queue：
-- 怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZlOA2AvJLUU)
-- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cEpl73QApU0)
-- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EUO4XGCExgM)
-2025-07-04 22:00:12 🎲 抽出 queue：
-- 【アカペラバラード】晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=o20f9JR2gJI)
-- ツキミソウ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WmKg0xoOJUM)
-- Tot Musica / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SPwBBfrtDaM)
-2025-07-04 23:00:12 🎲 抽出 queue：
-- 地球最後の告白を / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=f4tA1YNY-mA)
-- 【お姉さん】吉原ラメント / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gWL7PoxgFhw)
-- わたしの一番かわいいところ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=U2N1ZFgRiko)
-2025-07-05 03:00:15 🎲 抽出 queue：
-- ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4drtWPb2pdA)
-- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tDnNk-2m8tU)
-- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r-hizOS-Rvc)
-2025-07-05 04:00:17 🎲 抽出 queue：
-- Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wMHkfMHYDt0)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7tyCU1ngRzY)
-- 前前前世 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=stMNyQlo_-A)
-2025-07-05 08:00:13 🎲 抽出 queue：
-- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7RiMYsV6mRY)
-- アタシは問題作 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5eEeh7CbWvo)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wnhOESFBuws)
-2025-07-05 08:44:35 🎲 抽出 queue：
-- 誇り高きアイドル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QvI13LQAWMU)
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xa14xQw-cJQ)
-- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gvxVvzaks60)
-2025-07-05 09:00:13 🎲 抽出 queue：
-- 転生林檎 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GXo_1dj8qEk)
-- シンデレラボーイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FPzivJ_nKUI)
-- 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=smwy5F2NT5g)
-2025-07-05 12:00:17 🎲 抽出 queue：
-- 廃墟の国のアリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7MZXm4ar4lo)
-- ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=akDs5W97ZJ0)
-- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=a4IbSEkyiSA)
-2025-07-05 13:00:11 🎲 抽出 queue：
-- KING / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MmsWu0FALJg)
-- だれかの心臓になれたなら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rjrUNoUcMB4)
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=o4g82LXkymg)
-2025-07-05 14:00:16 🎲 抽出 queue：
-- カブトムシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8CXxJeuZEz0)
-- 少女レイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=13jXwpkfoeg)
-- 泥中に咲く / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=eSQydVrOfjg)
-2025-07-05 15:00:13 🎲 抽出 queue：
-- ブルーバード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=A6n5YdQ6vKY)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=UAL_ObYF72w)
-- キャットラビング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uHge9YjCeus)
-2025-07-05 22:00:13 🎲 抽出 queue：
-- アンノウン・マザーグース / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HTYNDTCrPAU)
-- 晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_ksRgkHby-k)
-- Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9bkGXZdVe3g)
-2025-07-05 23:03:29 🎲 抽出 queue：
-- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tWPFC0jHXkY)
-- Pretender / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hwGStksY84M)
-- ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=biebRqP6sdA)
-2025-07-06 03:00:14 🎲 抽出 queue：
-- プロトディスコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ayDAS9XRTII)
-- 僕らは今のなかで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=utORjm4GYPo)
-- ダーリンダンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M7ovOSRRwJo)
-2025-07-06 04:03:33 🎲 抽出 queue：
-- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=04zhy1WuiKc)
-- こちら、幸福安心委員会です。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pUyONLZQZLI)
-- QUEEN / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9dKf61l1ezo)
-2025-07-06 08:02:59 🎲 抽出 queue：
-- だから僕は音楽を辞めた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=X5Cd2k_n4hw)
-- God Knows… / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=BWAuO-deXkE)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uY8RCb4Rymg)
-2025-07-06 08:47:28 🎲 抽出 queue：
-- ドライフラワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_fqG30E0iRg)
-- 睨めっ娘 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TkGQc73csPo)
-- Alice in 冷凍庫 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qIgqLAc5mX4)
-2025-07-06 09:04:55 🎲 抽出 queue：
-- 【お姉さん】オトナブルー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HorY_fAhlAU)
-- キャットラビング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ye9A0eYcpyc)
-- シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JNW4bIAJ-Og)
-2025-07-06 13:01:16 🎲 抽出 queue：
-- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AYYQou78nWM)
-- たばこ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HC61azHG6Ps)
-- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Oik9JE6hboA)
-2025-07-06 14:08:35 🎲 抽出 queue：
-- 大切な人たちへ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=leCp0SNoltE)
-- ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HHg4_F-xEKo)
-- 小さな恋のうた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cfa0ccccRG4)
-2025-07-06 15:09:58 🎲 抽出 queue：
-- 如月アテンション / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4gTjdr2fY-E)
-- Snow halation / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pFPMXggp8Rg)
-- ノンブレス・オブリージュ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=XClKFxg60zk)
-2025-07-06 23:10:09 🎲 抽出 queue：
-- ノンブレス・オブリージュ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=80wU1JiCbSo)
-- 怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=XavYjWMUpCI)
-- ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tKHWHS6MF6k)
-2025-07-07 03:00:14 🎲 抽出 queue：
-- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=c6vZA1ICfbo)
-- 絶頂讃歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=md9_ekjN9Ew)
-- 愛包ダンスホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zkMdRk32xMQ)
-2025-07-07 04:00:34 🎲 抽出 queue：
-- ネトゲ廃人シュプレヒコール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iLEtupuiQ7A)
-- アンノウン・マザーグース / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pK-pTTmeoGI)
-- ウタカタララバイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jPGLgZs6bGk)
-2025-07-07 08:00:17 🎲 抽出 queue：
-- Bunny Girl / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Bl41JgSWX5k)
-- アンノウン・マザーグース / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GXEE5mQjaj0)
-- ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ic2QRLLudy8)
-2025-07-07 09:00:15 🎲 抽出 queue：
-- アイデンティティ/ 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yxbIvioYLpY)
-- デモーニッシュ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JZxQcgthiaw)
-- コールボーイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Swerk5Ux8nM)
-2025-07-07 09:00:29 🎲 抽出 queue：
-- 魔法少女とチョコレゐト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OlOJcFZzwNU)
-- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=11skv7KrMf8)
-- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s17irhyD3s4)
-2025-07-07 12:00:14 🎲 抽出 queue：
-- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Rm1aHFN0ohM)
-- 睨めっ娘 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Sz4eP7K0K_w)
-- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oATugLhvyCk)
-2025-07-07 13:00:19 🎲 抽出 queue：
-- メランコリック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Vmx8FE5hPRo)
-- だから僕は音楽を辞めた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0vm90WqOQ1U)
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iziChs8KzbU)
-2025-07-07 14:00:18 🎲 抽出 queue：
-- いかないで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7bRgJxcvN5Y)
-- ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nL2pRF8QISg)
-- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xapD3mIGI5M)
-2025-07-07 15:00:16 🎲 抽出 queue：
-- ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wCjjQDctXVg)
-- Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GS6FgyDkGUU)
-- わたしのアール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oATF8TqhFJI)
-2025-07-07 22:00:14 🎲 抽出 queue：
-- カゲロウデイズ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8kHTSrIHq4M)
-- ジレンマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PFLPHNGNZwg)
-- プロポーズ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Yz0gmt4Mu40)
-2025-07-07 23:00:14 🎲 抽出 queue：
-- 幽霊東京 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gSEdQz5S4ac)
-- トリセツ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CflQ90-JNGI)
-- 雨とペトラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Kfepdx8UlSg)
-2025-07-08 03:00:13 🎲 抽出 queue：
-- Aじゃないか / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gp8_Oy32KD8)
-- 大切な人たちへ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EBMciK7ssZ0)
-- 【アカペラバラード】モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xDJ1vjvrS90)
-2025-07-08 04:00:16 🎲 抽出 queue：
-- 【アカペラバラード】生きる / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=mhSE79rVECQ)
-- 絶頂讃歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=h3PoRTGBV2E)
-- Bling Bang Bang Born / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WM0Kwqk8IDk)
-2025-07-08 08:00:16 🎲 抽出 queue：
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PPwLTPeJplA)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KthaUzW2Ib4)
-- UNDEAD【通常ver. 】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_lCMQEu2vu4)
-2025-07-08 09:00:15 🎲 抽出 queue：
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=N_-Xc95cjDU)
-- アタシは問題作 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DF0WNPzzuaw)
-- 【アカペラバラード】ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C_xGhXunr-w)
-2025-07-08 12:00:15 🎲 抽出 queue：
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2wCILCd0Fuc)
-- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jTy7W6G4y7U)
-- 悪魔の子 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dPHevWMR7FA)
-2025-07-08 13:00:15 🎲 抽出 queue：
-- 脳裏上のクラッカー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ugx1ZQh43K4)
-- ハロ／ハワユ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jEBEfMCGKAw)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lbX5pC2VZVc)
-2025-07-08 13:50:33 🎲 抽出 queue：
-- 花瓶に触れた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wnb1FRGwa9k)
-- メンタルチェンソー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ynGAlBPiVqc)
-- 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5VkRFgKnl7k)
-2025-07-08 14:00:16 🎲 抽出 queue：
-- アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1R_vc6jbKR4)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Dt1q1HrYcow)
-- ラブカ? / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0iI20mUTrXA)
-2025-07-08 15:00:16 🎲 抽出 queue：
-- それがあなたの幸せとしても / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5IDwOwQIq34)
-- 天ノ弱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=mTuAFM1EMfc)
-- 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TyScQLaK_sg)
-2025-07-09 00:22:03 🎲 抽出 queue：
-- デーモンロード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JVX_9r6WULs)
-- Mela! / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dTtqUO2mAz8)
-- トウキョウ・シャンディ・ランデヴ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PyFGs7BZGZg)
-2025-07-09 03:16:21 🎲 抽出 queue：
-- 魔法の絨毯 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AkgPGbSd4qs)
-- かくれんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QSorEsT49TY)
-- 鬼ノ宴 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=twoV4iVbImY)
-2025-07-09 04:00:13 🎲 抽出 queue：
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GLc0KXU0M8s)
-- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=J6u-mcYxbA4)
-- ラヴィット / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-J-60ohQ5wo)
-2025-07-09 08:00:16 🎲 抽出 queue：
-- 神っぽいな / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=G1WyN2-Fnrg)
-- 星座になれたら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=t8w-C6wHb2M)
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FAMV8fjg610)
-2025-07-09 09:00:15 🎲 抽出 queue：
-- ルカルカ★ナイトフィーバー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qRq9LKOj0b0)
-- メフィスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vLP2vWKiOFY)
-- 天ノ弱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vJEJAfK2hhI)
-2025-07-09 10:00:14 🎲 抽出 queue：
-- only my railgun / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WUEYGRvPhJI)
-- ギラギラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hJktBrCSu-c)
-- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vNyBqsnktLk)
-2025-07-09 11:00:14 🎲 抽出 queue：
-- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ttDl0fdnkBc)
-- ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=16LbNnKXTCg)
-- ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=t219D_GvPCM)
-2025-07-09 12:00:58 🎲 抽出 queue：
-- メンタルチェンソー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=O8A4JY_weo8)
-- CH4NGE / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=XgoJwXC3pkc)
-- 命に嫌われている。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wZHD2cBcguw)
-2025-07-09 13:00:15 🎲 抽出 queue：
-- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9qftWOEUgsQ)
-- プラネタリウム / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gXm90hWTGdc)
-- Dec. / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s8GoWzAeVX8)
-2025-07-09 13:48:28 🎲 抽出 queue：
-- ピースサイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tMkA7jfABwE)
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=bOecdbOwbzs)
-- アイロニ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=k9eUDVkPNlA)
-2025-07-09 14:00:17 🎲 抽出 queue：
-- シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=x_noU27lC6k)
-- 絶頂讃歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VwXsdgdTrOI)
-- サインはB / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZZtcHhb17k0)
-2025-07-09 15:00:24 🎲 抽出 queue：
-- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r7coDzWSXzQ)
-- 【アカペラバラード】あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=olEeHIjaljk)
-- サイレントマジョリティー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uoJJmps_HnU)
-2025-07-09 22:00:19 🎲 抽出 queue：
-- エバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=g5A6mqekJuo)
-- 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=z5MqWubD_8s)
-- 【アニメ声】グッバイ宣言 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=apePfCtQToU)
-2025-07-09 23:00:15 🎲 抽出 queue：
-- 阿修羅ちゃん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=m2HVWUgkNjw)
-- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JO6t2ksZdJQ)
-- ヒビカセ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kQv01C0oWAM)
-2025-07-10 03:00:16 🎲 抽出 queue：
-- たぶん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=bSqhZuGi9ZQ)
-- ハロ／ハワユ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=G8mheatBSc0)
-- 贖罪 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fn5k5P3RmYI)
-2025-07-10 04:00:16 🎲 抽出 queue：
-- 怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZlOA2AvJLUU)
-- アイノカタチ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wtz_8pG2vKk)
-- 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=bjuJXzGAD0E)
-2025-07-10 08:00:14 🎲 抽出 queue：
-- 鬼ノ宴 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tBpdbGoYOhg)
-- 回る空うさぎ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cu1-dkiIaJw)
-- ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=mS_YQ9FFRI8)
-2025-07-10 09:00:19 🎲 抽出 queue：
-- カブトムシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8CXxJeuZEz0)
-- Bunny Girl【歌い手グループ】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1qgU0NOJJw8)
-- ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gNXU7z0U6ew)
-2025-07-10 10:00:14 🎲 抽出 queue：
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IGm38oU7B8s)
-- えれくとりっく・えんじぇぅ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LGn4yoccdYE)
-- 星座になれたら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jaJJQLFQqzM)
-2025-07-10 11:00:14 🎲 抽出 queue：
-- 命に嫌われている。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qWi9xhvYW8I)
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=o4g82LXkymg)
-- ルーザーガール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=flJSCGRT9kA)
-2025-07-10 12:00:15 🎲 抽出 queue：
-- 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LPJN8tT9-Lk)
-- トゥインクル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MiA_732Ih3g)
-- 炎 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=16gWqk3Y-_4)
-2025-07-10 13:00:16 🎲 抽出 queue：
-- クリスマスソング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iz32oitZ8jk)
-- 名前のない怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6E5KSQCXJ9c)
-- かくれんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fTz4g-qiZKc)
-2025-07-10 13:49:41 🎲 抽出 queue：
-- 【お姉さん】吉原ラメント / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gWL7PoxgFhw)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uY8RCb4Rymg)
-- ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nGJuKUne9xU)
-2025-07-10 14:00:16 🎲 抽出 queue：
-- 妄想税 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2mTzrwz5WGc)
-- 睨めっ娘 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=O-2EUfMef6g)
-- だれかの心臓になれたなら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kiDah8jkdYc)
-2025-07-10 15:00:15 🎲 抽出 queue：
-- テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AgE3mTSgv2o)
-- ダイダイダイダイダイキライ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7mdCBnwbiqY)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IGsHP4f-89E)
-2025-07-10 22:00:14 🎲 抽出 queue：
-- ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HHg4_F-xEKo)
-- インタビュア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_W7HJbJQQm0)
-- 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=raiUL34Hcbg)
-2025-07-10 23:00:14 🎲 抽出 queue：
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=j0UTX7I_Xrg)
-- 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vMztB9_cQJ8)
-- ラヴィット / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GBDMyeqkl6Y)
-2025-07-11 03:00:14 🎲 抽出 queue：
-- 如月アテンション / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4gTjdr2fY-E)
-- 【アカペラバラード】夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qKcdJy6FOgg)
-- それがあなたの幸せとしても / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=w0dPSQu24N8)
-2025-07-11 04:00:16 🎲 抽出 queue：
-- 残響散歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iN0FI_v5vgo)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vygMd6x1BtQ)
-- シンデレラボーイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FPzivJ_nKUI)
-2025-07-11 08:00:13 🎲 抽出 queue：
-- メフィスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=m8sbwH9abgw)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=L-qiNBJ8chY)
-- 悪魔の子 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pBoTd_rHxig)
-2025-07-11 09:00:14 🎲 抽出 queue：
-- 心拍数♯0822 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nCjSmwL47mQ)
-- モニタリング【歌い手グループ】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WXgXe7AHwEQ)
-- 残酷な天使のテーゼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M6XFqjyCnvU)
-2025-07-11 10:00:16 🎲 抽出 queue：
+2025-07-22 10:00:19 extract queue：
+- 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=isXalcosYLg)
+2025-07-22 11:00:15 extract queue：
+- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hTwvwQY2SoU)
+2025-07-22 12:00:25 extract queue：
 - ファンサ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xcLvf-qNcbc)
-- 脳裏上のクラッカー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uCjghsObkE0)
-- 曖昧劣情Lover / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ia_nO8SLxVg)
-2025-07-11 11:00:16 🎲 抽出 queue：
-- 悪魔の子 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TSF3FGkcsXE)
+2025-07-22 13:00:17 extract queue：
+- 【中日字幕】サマータイムレコード / 音ノ瀬らこ x 音ノ瀬らこ (https://www.youtube.com/watch?v=6tpdPqj9BuI)
+2025-07-22 13:54:55 extract queue：
+- それがあなたの幸せとしても / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=m3rEQcaOw-k)
+2025-07-22 14:00:18 extract queue：
+- ピースサイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tMkA7jfABwE)
+2025-07-22 15:00:23 extract queue：
+- バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Uc6arq79leE)
+2025-07-22 22:00:19 extract queue：
 - ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-s870kgx2Uw)
-- 拝啓ドッペルゲンガー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2rP6FymHaKw)
-2025-07-11 12:00:14 🎲 抽出 queue：
-- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5KTzcePpE_k)
-- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7RiMYsV6mRY)
-- 雨とペトラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sNNQolo1a5U)
-2025-07-11 13:00:14 🎲 抽出 queue：
-- 【アカペラバラード】15歳の主張 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Hu1Due3JL3o)
-- ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9ysa3E3G63c)
-- CITRUS / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1ijIR45y0Zs)
-2025-07-11 13:46:16 🎲 抽出 queue：
-- ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WY9v3kGflCU)
-- シルエット / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C_DgWBj1X-Q)
-- 【アカペラバラード】 君の為のキミノウタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GX5-cQFFqFs)
-2025-07-11 14:00:31 🎲 抽出 queue：
-- 可愛くなりたい / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=mbHWgygEFAA)
-- 贖罪 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dTkPPXxaYuM)
-- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hv_dtdQieTw)
-2025-07-11 15:00:16 🎲 抽出 queue：
-- 畢生よ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KQkUG1yvelQ)
-- 地球最後の告白を / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=f4tA1YNY-mA)
-- 私は最強 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QSAN-75tHf4)
-2025-07-11 22:00:14 🎲 抽出 queue：
-- だれかの心臓になれたなら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rjrUNoUcMB4)
-- 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SXIq5AjTfEg)
-- バレリーコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=c8WZst5t6Ms)
-2025-07-11 23:00:15 🎲 抽出 queue：
-- 高音厨音域テスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Yr-hciqYekQ)
-- Tot Musica / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r_zT1ZiwqoI)
-- キャットラビング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uHge9YjCeus)
-2025-07-12 03:00:14 🎲 抽出 queue：
-- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=n_Hif3MaaNU)
-- とても素敵な六月でした / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Kk-rO5CfXUg)
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rtlRU86Rb1k)
-2025-07-12 04:00:22 🎲 抽出 queue：
-- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1TBrkh6UEGE)
-- わたしの一番かわいいところ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=U2N1ZFgRiko)
-- シカ色デイズ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4viprp5dWsw)
-2025-07-12 08:00:15 🎲 抽出 queue：
-- ラブカ? / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=RQhYqvhhbQQ)
-- 大切な人たちへ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=leCp0SNoltE)
-- 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OIT_bdDIR3o)
-2025-07-12 09:00:14 🎲 抽出 queue：
-- ボッカデラベリタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OFNJTfPmhg4)
-- Bunny Girl / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TzIlYtmO18U)
-- ただ君に晴れ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YA9wb9qBuDk)
-2025-07-12 10:00:13 🎲 抽出 queue：
-- ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LoA-XhabgKg)
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=psOug5OR62M)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iBmYpdpK54M)
-2025-07-12 11:00:14 🎲 抽出 queue：
-- 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=bPBrZtf5-Zk)
-- スーサイドパレヱド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yhtQcO7otYw)
-- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OT-jf4AH9zU)
-2025-07-12 12:00:18 🎲 抽出 queue：
-- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dK3rL_sYh_Y)
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fJmOFmo552I)
-- ワールズエンド・ダンスホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6ruSaKRKyK0)
-2025-07-12 13:00:16 🎲 抽出 queue：
-- バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OOfiDBHmfEg)
-- POP IN 2【通常ver. 】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4PRW4j9TER4)
-- 【アカペラバラード】人工呼吸 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4m1ogSeMr4M)
-2025-07-12 13:41:08 🎲 抽出 queue：
-- 愛を伝えたいだとか / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vyZWdBRY4J8)
-- 勇者【段々キーが上がる－4~＋12】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1V8ZvmuQAyw)
-- フォニイ【通常ver. 】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9UMBCcOrvPQ)
-2025-07-12 14:00:15 🎲 抽出 queue：
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C4crxU7cd-Q)
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LNTzVxE7aZw)
+2025-07-22 23:00:20 extract queue：
+- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0bw86l0cLw4)
+2025-07-23 03:00:18 extract queue：
+- 【アカペラバラード】心做し / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pLVsvl0so0I)
+2025-07-23 04:00:22 extract queue：
+- ローリンガール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aHfXChqAM34)
+2025-07-23 08:00:17 extract queue：
+- シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ntYe7vrX63s)
+2025-07-23 09:00:17 extract queue：
+- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vygMd6x1BtQ)
+2025-07-23 10:00:20 extract queue：
+- 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yZhZUh2VdLs)
+2025-07-23 11:00:18 extract queue：
+- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=c6vZA1ICfbo)
+2025-07-23 12:00:22 extract queue：
+- 脳裏上のクラッカー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uCjghsObkE0)
+2025-07-23 13:00:18 extract queue：
+- ダーリン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Hy1vzV2QhSQ)
+2025-07-23 13:53:13 extract queue：
+- ダイダイダイダイダイキライ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C6giwrInlmA)
+2025-07-23 14:00:24 extract queue：
+- プロポーズ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Yz0gmt4Mu40)
+2025-07-23 15:00:17 extract queue：
+- キャットラビング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jJQ5S0bUl_g)
+2025-07-23 22:00:19 extract queue：
+- 六兆年と一夜物語 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ODh7FQhHx3Q)
+2025-07-23 23:00:19 extract queue：
+- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1VPif2oGVI0)
+2025-07-24 03:00:20 extract queue：
+- ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=q7hEdZX1MlI)
+2025-07-24 04:00:21 extract queue：
+- キメラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZKQ5nUzY4TI)
+2025-07-24 08:00:21 extract queue：
+- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=L-qiNBJ8chY)
+2025-07-24 09:00:33 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lbX5pC2VZVc)
+2025-07-24 10:00:25 extract queue：
+- 命に嫌われている。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qWi9xhvYW8I)
+2025-07-24 11:00:18 extract queue：
+- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3Q8Xt6wVa9Y)
+2025-07-24 12:00:19 extract queue：
+- 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CunpH8RyUIY)
+2025-07-24 13:00:20 extract queue：
+- プラネタリウム / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Fy9XOwL5r6M)
+2025-07-24 13:55:27 extract queue：
+- 残酷な天使のテーゼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M6XFqjyCnvU)
+2025-07-24 14:00:20 extract queue：
+- サインはB / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZZtcHhb17k0)
+2025-07-24 15:00:24 extract queue：
 - バレリーコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nY8KTY_P-XY)
-2025-07-12 15:00:48 🎲 抽出 queue：
-- 弱虫モンブラン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=bkqK0R0Maf4)
-- ボッカデラベリタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6oevl0cExJg)
-- ノンブレス・オブリージュ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=icnHaZXAF4I)
-2025-07-13 03:00:14 🎲 抽出 queue：
-- Tot Musica / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=03Qw938HaZo)
-- モエチャッカファイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ums7pk82SUo)
-- 弱虫モンブラン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hkIjx_z8yMI)
-2025-07-13 04:00:16 🎲 抽出 queue：
-- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Z1VYKtpU5tU)
-- 宿命 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EUc080_fFKQ)
-- Tot Musica / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SPwBBfrtDaM)
-2025-07-13 08:00:16 🎲 抽出 queue：
-- 乙女解剖 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lsWVOl0bq3w)
-- 【お姉さん】オトナブルー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HorY_fAhlAU)
-- ダーリンダンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZyPEQrPzY1w)
-2025-07-13 09:00:14 🎲 抽出 queue：
-- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=c_42OPlcFhU)
-- 【カワボ】わたしの一番かわいいところ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Zs6HPuPezW4)
-- テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FDu6zbhWLgU)
-2025-07-13 10:00:12 🎲 抽出 queue：
-- カブトムシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JXP9WkaC_uc)
-- 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PZZA2Zcmy-Q)
-- オーバーライド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1_aJf8S3Oog)
-2025-07-13 11:00:13 🎲 抽出 queue：
-- G4L / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EWgM0ue4ilg)
-- 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dZlYHYG6RPs)
-- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FgU7mPFiLZE)
-2025-07-13 12:00:14 🎲 抽出 queue：
-- 【アカペラバラード】テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=m07eKHaZKyE)
-- 誇り高きアイドル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QvI13LQAWMU)
-- ヒッチコック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2RAi8N3nLtg)
-2025-07-13 13:00:15 🎲 抽出 queue：
-- だから僕は音楽を辞めた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rTPLm__EIrg)
-- 君の知らない物語 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0aWpFR3K3Cg)
-- ベノム / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KxAlPk9WjSY)
-2025-07-13 13:41:10 🎲 抽出 queue：
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iziChs8KzbU)
-- メリュー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yPLkeVd05kc)
-- たばこ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HC61azHG6Ps)
-2025-07-13 14:00:22 🎲 抽出 queue：
-- エンヴィーベイビー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ea9tZFdGmwA)
-- 【アカペラバラード】生きる / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=mhSE79rVECQ)
-- 爆弾魔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=inSQsYh73lo)
-2025-07-13 15:00:13 🎲 抽出 queue：
-- CITRUS / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xjhdmu6-mtw)
-- テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QfVHnLsNBQA)
-- ダーリン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nu7pjLT1eX0)
-2025-07-13 22:00:13 🎲 抽出 queue：
-- えれくとりっく・えんじぇぅ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=moFEHrrvmrQ)
-- 狂乱 Hey Kids!! / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kOKNT6293JM)
-- 再教育 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NSmfi50Y6JY)
-2025-07-13 23:00:14 🎲 抽出 queue：
-- ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ABWiOX8NRic)
-- 雨とカプチーノ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wee0ljzlDOI)
-- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_zIsNGW-DLY)
-2025-07-14 03:00:16 🎲 抽出 queue：
-- バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TUuKU6DlNYk)
-- 花になって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=l6SSiTe8Vt4)
-- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pLbzQRzXwgk)
-2025-07-14 04:00:14 🎲 抽出 queue：
-- QUEEN / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9dKf61l1ezo)
-- 明日への手紙 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jhefreCEm6U)
-- 名前のない怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OwjH1CiJtmU)
-2025-07-14 08:00:15 🎲 抽出 queue：
-- G4L / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aYMf-7GN3u8)
-- 115万キロのフィルム / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SsGy0TeLkmY)
-- アイネクライネ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OjiKGEL4vwc)
-2025-07-14 09:00:31 🎲 抽出 queue：
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KthaUzW2Ib4)
-- 拝啓、少年よ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8KBHAWueC4A)
-- ダーリンダンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M7ovOSRRwJo)
-2025-07-14 10:00:19 🎲 抽出 queue：
-- Ghost of a Smile / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_MWFX312G0Y)
-- ジレンマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PFLPHNGNZwg)
-- 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IPC-olDMT5g)
-2025-07-14 11:00:16 🎲 抽出 queue：
-- 乙女解剖 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3Fs2H4JprYU)
-- ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dOKhGIDboIU)
-- 私は最強 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ofs1XTh9dbk)
-2025-07-14 12:00:15 🎲 抽出 queue：
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7tyCU1ngRzY)
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rPj8dUDP1SQ)
-- 神っぽいな / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=G1WyN2-Fnrg)
-2025-07-14 13:00:16 🎲 抽出 queue：
-- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9js9SE3NwA0)
-- デビルじゃないもん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s91p1ItrghA)
-- アイロニ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0KVeWxtDCtE)
-2025-07-14 13:51:50 🎲 抽出 queue：
-- Dec. / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=T4y8E0Ij8vs)
-- 雨とペトラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MHwMa1Gg_-E)
-- クライヤ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8swOoCaVgTM)
-2025-07-14 14:00:21 🎲 抽出 queue：
-- 残響散歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zSTKdKOo7c0)
-- Tot Musica / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vL9htcReQOo)
-- 晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_ksRgkHby-k)
-2025-07-14 15:00:17 🎲 抽出 queue：
-- Snow halation / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pFPMXggp8Rg)
-- エルフ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=D52lGlamCy8)
-- 脳裏上のクラッカー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ugx1ZQh43K4)
-2025-07-14 22:00:15 🎲 抽出 queue：
-- 妄想税 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HFMguBVMRvQ)
-- Henceforth / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZzL_ra1HhGk)
-- 雨とカプチーノ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KwYfnkk13mA)
-2025-07-14 23:00:16 🎲 抽出 queue：
-- ヴァンパイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3OY0yJHtuzI)
-- ワールドイズマイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rskIFm530qs)
-- デビルじゃないもん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ryM4QRLHsAc)
-2025-07-15 03:00:14 🎲 抽出 queue：
-- ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4bKOeYfBfzI)
-- プライド革命 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=H8QyGt31wPU)
-- 君の為のキミノウタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=93coXpo3nQM)
-2025-07-15 04:00:13 🎲 抽出 queue：
-- ピースサイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pM749gc5o2o)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JWK0VhAPeRE)
-- UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nGGQ7SzSXrI)
-2025-07-15 08:00:14 🎲 抽出 queue：
-- 明日の私に幸あれ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ImW-puWA1Jc)
-- 転生林檎 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Tz0gKeVQkw8)
-- ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PBbNQKLcT6s)
-2025-07-15 09:00:19 🎲 抽出 queue：
-- Ghost of a Smile / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DpAucRG3cEI)
-- 幽霊東京 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jKLatF5jds0)
-- チュルリラ・チュルリラ・ダッダッダ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sIIEzjNwl6s)
-2025-07-15 10:00:19 🎲 抽出 queue：
-- ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uQadixZW_cw)
-- 絶頂讃歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M-sTrYXHwk8)
-- UNDEAD【通常ver. 】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_lCMQEu2vu4)
-2025-07-15 11:00:17 🎲 抽出 queue：
-- ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=biebRqP6sdA)
-- 愛包ダンスホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zkMdRk32xMQ)
-- カワキヲアメク / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=15MmfvvfauU)
-2025-07-15 12:00:20 🎲 抽出 queue：
-- ラビットホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Hprqy7SsOJ0)
-- 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xhKZ9dipYCo)
-- DAYBREAK FRONTLINE / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=k_kL1F0GmIY)
-2025-07-15 13:00:43 🎲 抽出 queue：
-- 【天然水】フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9JEaESA73GE)
-- メランコリック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Vmx8FE5hPRo)
-- G4L / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lGY4tiSyaME)
-2025-07-15 13:56:39 🎲 抽出 queue：
-- ゴーストルール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xNxj3FdkHdI)
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GLc0KXU0M8s)
-- カワキヲアメク / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rUvz_wY5cno)
-2025-07-15 14:00:23 🎲 抽出 queue：
-- 夏恋花火 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DU_N9lqtK5Y)
-- 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tx6eIuDC2tM)
-- ブルーバード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=A6n5YdQ6vKY)
-2025-07-15 15:00:44 🎲 抽出 queue：
-- 悪魔の踊り方 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4zohzTCUZBc)
-- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MTkQ7P6irVY)
-- 【カワボ】可愛くてごめん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VE58HVoFR3o)
-2025-07-15 22:00:15 🎲 抽出 queue：
-- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_mvs4Nt4SSA)
-- アスノヨゾラ哨戒班【段々キーが上がる－4~＋10】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ShxQzAUBwtk)
-- 六兆年と一夜物語 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=G89xYLvoAH4)
-2025-07-15 23:00:16 🎲 抽出 queue：
-- だれかの心臓になれたなら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EuhFR6DfYxk)
-- ラヴィット / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-J-60ohQ5wo)
-- Bunny Girl / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4d_7g5GY_d8)
-2025-07-16 13:54:21 🎲 抽出 queue：
-- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6E-623G9J48)
-2025-07-16 14:00:26 🎲 抽出 queue：
-- アタシは問題作 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rHXsLZuo7NY)
-2025-07-16 15:00:28 🎲 抽出 queue：
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=RoJjwZ8pDUU)
-2025-07-16 22:00:18 🎲 抽出 queue：
-- ルマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DINg7ayzANM)
-2025-07-16 23:00:15 🎲 抽出 queue：
-- ルカルカ★ナイトフィーバー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qRq9LKOj0b0)
-2025-07-17 03:00:18 🎲 抽出 queue：
-- POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=a4IbSEkyiSA)
-2025-07-17 04:00:21 🎲 抽出 queue：
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PPwLTPeJplA)
-2025-07-17 08:00:17 🎲 抽出 queue：
-- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hJMBWR9AGEU)
-2025-07-17 09:00:15 🎲 抽出 queue：
-- 泥中に咲く / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GVP7k-DDPF8)
-2025-07-17 10:00:15 🎲 抽出 queue：
-- 【アカペラバラード】僕が夢を捨てて大人になるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hQ3OCI4cHk0)
-2025-07-17 11:00:15 🎲 抽出 queue：
-- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IGsHP4f-89E)
-2025-07-17 12:00:14 🎲 抽出 queue：
-- 忘れてやらない / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Y2t4be1g7ok)
-2025-07-17 13:00:19 🎲 抽出 queue：
-- ゴーストルール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pE80cMRkJW4)
-2025-07-17 14:02:01 🎲 抽出 queue：
-- ハム太郎とっとこうた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GJwyvOpjH3g)
-2025-07-17 15:00:20 🎲 抽出 queue：
-- 太陽系デスコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oF2fpKtI570)
-2025-07-17 22:00:18 🎲 抽出 queue：
-- ボッカデラベリタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=N24al32LJW4)
-2025-07-17 23:00:14 🎲 抽出 queue：
-- それがあなたの幸せとしても / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Df1jyj0AOC8)
-2025-07-18 03:00:13 🎲 抽出 queue：
-- ラヴィ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=G3BSweg6XSE)
-2025-07-18 04:00:27 🎲 抽出 queue：
-- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jxVQQ4DeuJ4)
-2025-07-18 08:00:20 🎲 抽出 queue：
-- オーバーライド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nxnTfu2E_Io)
-2025-07-18 09:02:26 🎲 抽出 queue：
-- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0DaTmC3Br6c)
-2025-07-18 10:00:18 🎲 抽出 queue：
-- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=11skv7KrMf8)
-2025-07-18 11:00:23 🎲 抽出 queue：
-- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kwn_uQ-DZ8s)
-2025-07-18 12:00:21 🎲 抽出 queue：
-- ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ic2QRLLudy8)
-2025-07-18 13:00:23 🎲 抽出 queue：
-- 転生林檎 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GXo_1dj8qEk)
-2025-07-18 13:53:53 🎲 抽出 queue：
-- Bunny Girl / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rQaLFRJjG68)
-2025-07-18 14:00:19 🎲 抽出 queue：
-- ピースサイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=N1vt_V5ApO4)
-2025-07-18 15:00:24 🎲 抽出 queue：
-- 恋愛裁判 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NWMxPo_-dBc)
-2025-07-18 22:00:22 🎲 抽出 queue：
-- 【アカペラバラード】声 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WEd0n1qz754)
-2025-07-18 23:00:15 🎲 抽出 queue：
-- 【アカペラバラード】深海少女 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=h8ZvAxqzfB4)
-2025-07-19 03:00:17 🎲 抽出 queue：
-- わたしのアール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xNkY_nsd8nY)
-2025-07-19 04:00:18 🎲 抽出 queue：
-- ダーリンダンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sO_jo1dHgB0)
-2025-07-19 08:00:18 🎲 抽出 queue：
-- 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HeuMs0v0HGA)
-2025-07-19 09:00:17 🎲 抽出 queue：
-- ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jUqFth9NM5Y)
-2025-07-19 10:00:19 🎲 抽出 queue：
-- レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9qftWOEUgsQ)
-2025-07-19 11:00:17 🎲 抽出 queue：
-- アンノウン・マザーグース / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SuLSoxldwJQ)
-2025-07-19 12:00:19 🎲 抽出 queue：
-- 神っぽいな / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zHZej95QzP0)
-2025-07-19 13:00:17 🎲 抽出 queue：
-- それは僕たちの奇跡 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Mt9Psma-Udg)
-2025-07-19 13:42:30 🎲 抽出 queue：
-- ウタカタララバイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jPGLgZs6bGk)
-2025-07-19 14:00:21 🎲 抽出 queue：
-- 小さな恋のうた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cfa0ccccRG4)
-2025-07-19 15:00:19 🎲 抽出 queue：
-- ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wCjjQDctXVg)
-2025-07-19 22:00:16 🎲 抽出 queue：
-- ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WmMGrdkwSLQ)
-2025-07-19 23:00:18 🎲 抽出 queue：
-- テオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=i4JUQqNGJ8I)
-2025-07-20 03:00:16 🎲 抽出 queue：
-- アンノウン・マザーグース / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pK-pTTmeoGI)
-2025-07-20 04:01:06 🎲 抽出 queue：
-- 夜に駆ける / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7eT2Zvjp-wY)
-2025-07-20 08:00:17 🎲 抽出 queue：
-- ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ILk53yEoH9I)
-2025-07-20 09:00:22 🎲 抽出 queue：
-- ジャンキーナイトタウンオーケストラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VBSEr_CG5qo)
-2025-07-20 10:00:14 🎲 抽出 queue：
-- 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pJ2e65suspw)
-2025-07-20 11:00:16 🎲 抽出 queue：
-- 悪魔の子 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=W1w04P1vOQ4)
-2025-07-20 12:00:16 🎲 抽出 queue：
-- アイノカタチ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wtz_8pG2vKk)
+2025-07-24 22:00:17 extract queue：
+- トウキョウ・シャンディ・ランデヴ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PyFGs7BZGZg)
+2025-07-24 23:00:17 extract queue：
+- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Rm1aHFN0ohM)
+2025-07-25 03:00:20 extract queue：
+- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3c2MuuFV4a0)
+2025-07-25 04:00:19 extract queue：
+- シンデレラボーイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FPzivJ_nKUI)
+2025-07-25 08:00:19 extract queue：
+- Henceforth / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PEJE3ovjcNw)
+2025-07-25 09:00:17 extract queue：
+- アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1R_vc6jbKR4)

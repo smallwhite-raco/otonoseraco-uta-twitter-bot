@@ -4,45 +4,46 @@ import json
 import os
 from datetime import datetime
 
+# History limit
 HISTORY_LIMIT = 200
 
-# 讀舊 history
+# read history
 if os.path.exists("history.json") and os.path.getsize("history.json") > 0:
     with open("history.json", "r", encoding="utf-8") as f:
         history = json.load(f)
 else:
     history = []
 
-# 讀 CSV：A = title、B = link
+# read CSV：A = title、B = link
 with open("playlist.csv", newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
     next(reader)  # skip header
     videos = [(row[1], row[0]) for row in reader if row[1].startswith("http") and row[0].strip() != ""]
 
-# 過濾已發過
+# filter history
 unposted = [(link, title) for link, title in videos if link not in history]
 
-# 如果唔夠新片，就重設 history
+# reset history
 if len(unposted) < 1:
     unposted = videos
     history = []
 
-# 抽出 3 條
+# choose 1
 chosen = random.sample(unposted, 1)
 
-# 儲存至 queue.json
+# save to queue.json
 with open("tweet_queue.json", "w", encoding="utf-8") as f:
     json.dump([{"link": l, "title": t} for l, t in chosen], f, ensure_ascii=False)
 
-# 更新 history，保留最近 100 條
+# update history.json
 history += [l for l, _ in chosen]
-history = history[-HISTORY_LIMIT:]  # 保留最後 100 條
+history = history[-HISTORY_LIMIT:]
 with open("history.json", "w", encoding="utf-8") as f:
     json.dump(history, f, ensure_ascii=False)
 
 
 log_lines = [
-    f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} 🎲 抽出 queue："
+    f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} extract queue："
 ]
 for link, title in chosen:
     log_lines.append(f"- {title} ({link})")
