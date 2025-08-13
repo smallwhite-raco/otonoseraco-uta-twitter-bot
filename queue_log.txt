@@ -272,3 +272,5 @@
 - モニタリング【歌い手グループ】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WXgXe7AHwEQ)
 2025-08-12 15:11:49 extract queue：
 - 絶頂讃歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CYpvhnwneyE)
+2025-08-13 03:43:47 extract queue：
+- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7RiMYsV6mRY)
