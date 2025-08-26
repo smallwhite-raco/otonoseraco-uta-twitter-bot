@@ -546,3 +546,5 @@
 - バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YDyy2Nw-SuA)
 2025-08-26 12:30:05 extract queue：
 - 炎 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=16gWqk3Y-_4)
+2025-08-26 13:36:12 extract queue：
+- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3op3xczgVqA)
