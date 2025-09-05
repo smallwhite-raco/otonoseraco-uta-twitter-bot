@@ -740,3 +740,5 @@
 - ピースサイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pM749gc5o2o)
 2025-09-05 09:13:59 extract queue：
 - サマータイムシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=630d8Fu-tsA)
+2025-09-05 10:13:10 extract queue：
+- アウターサイエンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=g0g6c1zRc7g)
