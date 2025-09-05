@@ -742,3 +742,5 @@
 - サマータイムシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=630d8Fu-tsA)
 2025-09-05 10:13:10 extract queue：
 - アウターサイエンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=g0g6c1zRc7g)
+2025-09-05 11:13:18 extract queue：
+- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fJmOFmo552I)
