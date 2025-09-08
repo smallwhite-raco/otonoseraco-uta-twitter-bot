@@ -804,3 +804,5 @@
 - 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TyScQLaK_sg)
 2025-09-08 11:13:42 extract queue：
 - シルエット / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C_DgWBj1X-Q)
+2025-09-08 12:29:05 extract queue：
+- 生きる / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uhz42EC37qk)
