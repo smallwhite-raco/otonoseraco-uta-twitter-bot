@@ -1032,3 +1032,5 @@
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0bw86l0cLw4)
 2025-09-20 03:19:33 extract queue：
 - 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=53BI9hY_Bvg)
+2025-09-20 04:25:32 extract queue：
+- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=c2Sk3IMLuWo)
