@@ -1080,3 +1080,5 @@
 - DAYBREAK FRONTLINE / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DQmcgNlZRBg)
 2025-09-22 10:14:28 extract queue：
 - 生きる / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8Dy4Xe02jxk)
+2025-09-22 11:14:00 extract queue：
+- I wonder / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dn7SpbZrq2k)
