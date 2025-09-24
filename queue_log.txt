@@ -1126,3 +1126,5 @@
 - 残機 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=mkh0a74x6Qg)
 2025-09-24 13:32:14 extract queue：
 - フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=63Q_iTz85nQ)
+2025-09-24 14:08:41 extract queue：
+- Calc / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HHw4c-9sX1Y)
