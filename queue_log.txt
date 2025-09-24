@@ -1110,3 +1110,5 @@
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r1I9OD2FIO8)
 2025-09-23 15:11:08 extract queue：
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=a7toc0K6KDo)
+2025-09-24 03:23:36 extract queue：
+- ハナタバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=G3mq59jDr5w)
