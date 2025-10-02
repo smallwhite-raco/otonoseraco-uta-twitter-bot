@@ -1272,3 +1272,5 @@
 - 鬼ノ宴 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=twoV4iVbImY)
 2025-10-02 03:21:54 extract queue：
 - Alice in 冷凍庫 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qIgqLAc5mX4)
+2025-10-02 04:25:38 extract queue：
+- ジェヘナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TMzRWVbuf5w)
