@@ -1280,3 +1280,5 @@
 - アイネクライネ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OjiKGEL4vwc)
 2025-10-02 10:12:27 extract queue：
 - ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=BCNmuT6hLQ8)
+2025-10-02 11:12:59 extract queue：
+- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4u1y8pBGl-g)
