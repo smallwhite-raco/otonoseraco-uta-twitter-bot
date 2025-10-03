@@ -1298,3 +1298,5 @@
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0BVbYfZrhHU)
 2025-10-03 09:13:33 extract queue：
 - ハロ／ハワユ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zHENryzMG7I)
+2025-10-03 10:12:59 extract queue：
+- シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hfKMYUm-uTE)
