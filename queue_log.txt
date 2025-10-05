@@ -1348,3 +1348,5 @@
 - ジャンキーナイトタウンオーケストラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=prahXWiPKXY)
 2025-10-05 14:08:10 extract queue：
 - ダーリン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AkLhE6WuBEE)
+2025-10-05 15:08:26 extract queue：
+- だから僕は音楽を辞めた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tq8Kmyej9Co)
