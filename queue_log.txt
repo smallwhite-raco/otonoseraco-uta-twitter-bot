@@ -1504,3 +1504,5 @@
 - KING / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MmsWu0FALJg)
 2025-10-13 12:28:35 extract queue：
 - QUEEN / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0xM6EDb1F0c)
+2025-10-13 13:33:39 extract queue：
+- ハロ／ハワユ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AE6uhAiexwE)
