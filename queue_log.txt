@@ -1560,3 +1560,5 @@
 - 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7KhjYnvzsHE)
 2025-10-16 10:14:14 extract queue：
 - 君はロックを聴かない / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5VA3pUhL1O8)
+2025-10-16 11:14:16 extract queue：
+- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vNyBqsnktLk)
