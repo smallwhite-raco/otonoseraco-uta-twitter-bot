@@ -1562,3 +1562,5 @@
 - 君はロックを聴かない / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5VA3pUhL1O8)
 2025-10-16 11:14:16 extract queue：
 - テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vNyBqsnktLk)
+2025-10-16 12:29:40 extract queue：
+- ギラギラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FIoSdO-R-w8)
