@@ -1598,3 +1598,5 @@
 - バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YDyy2Nw-SuA)
 2025-10-18 09:12:38 extract queue：
 - 【アカペラバラード】天ノ弱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6PtkYa1teD4)
+2025-10-18 10:11:33 extract queue：
+- オーバーライド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nxnTfu2E_Io)
