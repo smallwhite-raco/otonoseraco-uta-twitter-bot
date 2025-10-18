@@ -1594,3 +1594,5 @@
 - 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-3OKjVD2DrI)
 2025-10-18 04:25:43 extract queue：
 - ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6JEzPrhm-1I)
+2025-10-18 08:18:22 extract queue：
+- バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YDyy2Nw-SuA)
