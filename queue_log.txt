@@ -1776,3 +1776,5 @@
 - ウタカタララバイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jPGLgZs6bGk)
 2025-10-27 08:21:44 extract queue：
 - 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KvNR532tvoM)
+2025-10-27 09:17:44 extract queue：
+- ラヴィ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=K8n9kLjHCAY)
