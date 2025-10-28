@@ -1796,3 +1796,5 @@
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6RGAv44fW84)
 2025-10-28 08:21:11 extract queue：
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gRhxm0PO6N0)
+2025-10-28 09:15:00 extract queue：
+- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NWfFBdjaAFQ)
