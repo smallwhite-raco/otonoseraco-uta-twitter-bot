@@ -1798,3 +1798,5 @@
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gRhxm0PO6N0)
 2025-10-28 09:15:00 extract queue：
 - あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NWfFBdjaAFQ)
+2025-10-28 10:14:39 extract queue：
+- デビルじゃないもん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s91p1ItrghA)
