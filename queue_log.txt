@@ -1860,3 +1860,5 @@
 - ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JvUDX9dkEj0)
 2025-10-31 10:13:52 extract queue：
 - ゴーストルール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pE80cMRkJW4)
+2025-10-31 11:13:55 extract queue：
+- さよならエレジー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=i2jG4oKbq2I)
