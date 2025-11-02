@@ -1908,3 +1908,5 @@
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wMHkfMHYDt0)
 2025-11-02 14:08:23 extract queue：
 - チェリーポップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MM2U3hd3ms8)
+2025-11-02 15:09:04 extract queue：
+- ひゅるりらぱっぱ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=h41pIM-Q0jA)
