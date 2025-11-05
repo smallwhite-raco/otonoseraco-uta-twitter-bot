@@ -1958,3 +1958,5 @@
 - テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=b_biVhBMfJM)
 2025-11-05 09:16:33 extract queue：
 - KING / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wW5b74HzonQ)
+2025-11-05 10:15:06 extract queue：
+- ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DN7e7iKPdZ0)
