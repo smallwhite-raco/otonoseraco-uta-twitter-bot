@@ -2010,3 +2010,5 @@
 - シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=x_noU27lC6k)
 2025-11-07 15:11:06 extract queue：
 - アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1R_vc6jbKR4)
+2025-11-08 03:28:26 extract queue：
+- HenceForce / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jkgQr4CLHug)
