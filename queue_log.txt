@@ -2012,3 +2012,5 @@
 - アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1R_vc6jbKR4)
 2025-11-08 03:28:26 extract queue：
 - HenceForce / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jkgQr4CLHug)
+2025-11-08 04:26:53 extract queue：
+- 会いたくて 会いたくて / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZHEpYs3y0no)
