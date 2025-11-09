@@ -2048,3 +2048,5 @@
 - 高音厨音域テスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Yr-hciqYekQ)
 2025-11-09 14:08:14 extract queue：
 - デーモンロード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rRbsybL4qD0)
+2025-11-09 15:09:30 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1fEcCJr6Aj0)
