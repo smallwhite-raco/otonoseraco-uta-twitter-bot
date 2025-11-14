@@ -2140,3 +2140,5 @@
 - 【アカペラ】高音厨音域テスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zpNirb4ck74)
 2025-11-14 10:15:00 extract queue：
 - only my railgun / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cd74ifkDanI)
+2025-11-14 11:15:06 extract queue：
+- 君の為のキミノウタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jg4ZrI1IXy8)
