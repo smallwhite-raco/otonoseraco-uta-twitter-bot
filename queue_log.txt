@@ -2218,3 +2218,5 @@
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=V2RxCDFu-N0)
 2025-11-18 09:16:20 extract queue：
 - G4L / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aIHmNN-xf3U)
+2025-11-18 10:15:59 extract queue：
+- かくれんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-qIDZPmbPOA)
