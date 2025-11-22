@@ -2298,3 +2298,5 @@
 - ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_RI-P92EXDM)
 2025-11-22 10:12:39 extract queue：
 - 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HeuMs0v0HGA)
+2025-11-22 11:12:30 extract queue：
+- 鬼ノ宴 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=twoV4iVbImY)
