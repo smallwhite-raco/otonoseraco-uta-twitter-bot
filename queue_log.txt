@@ -2308,3 +2308,5 @@
 - Calc / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HHw4c-9sX1Y)
 2025-11-22 15:09:25 extract queue：
 - モザイクロール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JvpcvPswy_Q)
+2025-11-23 03:50:48 extract queue：
+- バレリーコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nY8KTY_P-XY)
