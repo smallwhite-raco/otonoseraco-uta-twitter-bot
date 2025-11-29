@@ -2442,3 +2442,5 @@
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vygMd6x1BtQ)
 2025-11-29 12:26:58 extract queue：
 - 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2nLrx9WjQ3Q)
+2025-11-29 13:30:23 extract queue：
+- ハッピーシンセサイザ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=e9xZnDufTko)
