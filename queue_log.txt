@@ -2456,3 +2456,5 @@
 - ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JvUDX9dkEj0)
 2025-11-30 09:13:11 extract queue：
 - G4L / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MMt_Rmj8UmU)
+2025-11-30 10:12:47 extract queue：
+- わたしのアール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oATF8TqhFJI)
