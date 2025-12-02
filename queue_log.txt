@@ -2488,3 +2488,5 @@
 - レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3Q8Xt6wVa9Y)
 2025-12-01 15:12:22 extract queue：
 - テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kmhT6MgRCxQ)
+2025-12-02 03:44:24 extract queue：
+- プライド革命 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jjdz6LfUlpE)
