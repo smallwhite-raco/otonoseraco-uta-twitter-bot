@@ -2508,3 +2508,5 @@
 - テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GXjUMS8GSTs)
 2025-12-02 15:13:00 extract queue：
 - かくれんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fTz4g-qiZKc)
+2025-12-03 03:43:32 extract queue：
+- メランコリック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Vmx8FE5hPRo)
