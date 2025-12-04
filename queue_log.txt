@@ -2540,3 +2540,5 @@
 - ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xha42XuF5qI)
 2025-12-04 11:17:22 extract queue：
 - ニア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KgMuuzsrTsA)
+2025-12-04 12:32:47 extract queue：
+- いかないで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=plKDp094S0A)
