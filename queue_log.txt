@@ -2584,3 +2584,5 @@
 - 星座になれたら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=S1m3eQ5BiKY)
 2025-12-06 13:30:42 extract queue：
 - サイレントマジョリティー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uoJJmps_HnU)
+2025-12-06 14:08:53 extract queue：
+- テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=b_biVhBMfJM)
