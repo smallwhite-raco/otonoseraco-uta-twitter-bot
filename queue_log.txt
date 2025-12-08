@@ -2612,3 +2612,5 @@
 - I wonder / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QlaEEvFjwVE)
 2025-12-08 04:36:50 extract queue：
 - 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZQ065PSwJIo)
+2025-12-08 08:25:44 extract queue：
+- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=53BI9hY_Bvg)
