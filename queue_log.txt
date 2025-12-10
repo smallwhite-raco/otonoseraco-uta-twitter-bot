@@ -2650,3 +2650,5 @@
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4fS-Xt2IfWI)
 2025-12-10 03:48:32 extract queue：
 - メリーバッドエンド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=M4LEmo1dLSU)
+2025-12-10 04:36:32 extract queue：
+- たばこ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HC61azHG6Ps)
