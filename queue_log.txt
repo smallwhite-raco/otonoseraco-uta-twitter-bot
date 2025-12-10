@@ -2666,3 +2666,5 @@
 - 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TQOYg2gbDjs)
 2025-12-10 14:14:04 extract queue：
 - アスノヨゾラ哨戒班 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=g06LfVk4gXE)
+2025-12-10 15:14:17 extract queue：
+- バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TUuKU6DlNYk)
