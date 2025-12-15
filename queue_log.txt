@@ -2748,3 +2748,5 @@
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r1I9OD2FIO8)
 2025-12-14 15:10:08 extract queue：
 - さくらんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ptcn2_t5IEs)
+2025-12-15 03:57:51 extract queue：
+- 花になって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=irm5-09doRE)
