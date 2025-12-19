@@ -2840,3 +2840,5 @@
 - 恋愛裁判 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NWMxPo_-dBc)
 2025-12-19 11:16:12 extract queue：
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IC4flrB4WGQ)
+2025-12-19 12:30:22 extract queue：
+- カタオモイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cvCBAYKsWsA)
