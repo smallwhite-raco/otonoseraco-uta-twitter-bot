@@ -2876,3 +2876,5 @@
 - only my railgun / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cd74ifkDanI)
 2025-12-21 09:14:08 extract queue：
 - デイバイデイズ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2oCbS98bRaE)
+2025-12-21 10:13:35 extract queue：
+- メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cEtabBEN32I)
