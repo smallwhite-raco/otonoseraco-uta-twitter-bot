@@ -2944,3 +2944,5 @@
 - 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QxB0CthB8kA)
 2025-12-24 14:10:24 extract queue：
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iBmYpdpK54M)
+2025-12-24 15:12:03 extract queue：
+- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FcEh-iglvZ0)
