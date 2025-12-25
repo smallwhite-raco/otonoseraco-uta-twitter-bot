@@ -2950,3 +2950,5 @@
 - モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qqvOT9G0-xs)
 2025-12-25 04:40:40 extract queue：
 - ニア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KgMuuzsrTsA)
+2025-12-25 08:22:44 extract queue：
+- ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TtiEu6g7QDk)
