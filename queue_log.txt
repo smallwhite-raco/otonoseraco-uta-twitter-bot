@@ -3076,3 +3076,5 @@
 - 雨とカプチーノ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DLrvsHMMZzI)
 2026-01-05 11:17:10 extract queue：
 - メフィスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=m8sbwH9abgw)
+2026-01-05 12:34:20 extract queue：
+- ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-w-7QuWe7Aw)
