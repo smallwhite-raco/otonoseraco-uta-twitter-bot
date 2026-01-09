@@ -3136,3 +3136,5 @@
 - シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qZVDKBtkNrA)
 2026-01-09 11:17:09 extract queue：
 - Dec. / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=muucp14R3LE)
+2026-01-09 12:32:43 extract queue：
+- 砂の惑星 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=c2Sk3IMLuWo)
