@@ -3130,3 +3130,5 @@
 - オーバーライド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=UUy2OWlG03g)
 2026-01-09 08:24:49 extract queue：
 - バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TUuKU6DlNYk)
+2026-01-09 09:21:48 extract queue：
+- ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tGVLMWznwLM)
