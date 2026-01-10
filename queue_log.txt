@@ -3152,3 +3152,5 @@
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sIWbP7qnp1M)
 2026-01-10 09:14:31 extract queue：
 - ジェヘナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ziiyPYhmJi4)
+2026-01-10 10:13:38 extract queue：
+- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=RezvgeUmld0)
