@@ -3178,3 +3178,5 @@
 - チェリーポップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MM2U3hd3ms8)
 2026-01-11 12:29:37 extract queue：
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JWK0VhAPeRE)
+2026-01-11 13:33:53 extract queue：
+- ダイダイダイダイダイキライ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1CQpWW-Fjqs)
