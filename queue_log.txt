@@ -3190,3 +3190,5 @@
 - 祝福 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AHmF8llaE2M)
 2026-01-12 08:26:27 extract queue：
 - ボッカデラベリタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6oevl0cExJg)
+2026-01-12 09:26:13 extract queue：
+- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EyiXlE2GDfk)
