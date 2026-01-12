@@ -3186,3 +3186,5 @@
 - secret base～君がくれたもの～ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NCZtrWjA1-4)
 2026-01-12 04:04:52 extract queue：
 - ヒッチコック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7YQVY6OUd5M)
+2026-01-12 04:54:01 extract queue：
+- 祝福 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AHmF8llaE2M)
