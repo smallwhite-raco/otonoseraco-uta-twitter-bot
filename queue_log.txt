@@ -3236,3 +3236,5 @@
 - ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=de-rYOZINcs)
 2026-01-14 11:19:05 extract queue：
 - だれかの心臓になれたなら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=k8bEBXDSjGQ)
+2026-01-14 12:33:30 extract queue：
+- 酔いどれ知らず / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tfmcpkTJzGA)
