@@ -3256,3 +3256,5 @@
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kBuvgkYXDZk)
 2026-01-15 11:18:01 extract queue：
 - テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2iO99WSjFOI)
+2026-01-15 12:33:24 extract queue：
+- エイリアンエイリアン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FEYOi9UL2YM)
