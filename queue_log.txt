@@ -3266,3 +3266,5 @@
 - I wonder / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jY2bIIKhfRI)
 2026-01-16 03:56:19 extract queue：
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VjvmK7SeD0o)
+2026-01-16 04:42:54 extract queue：
+- シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Vm2bULVBm2M)
