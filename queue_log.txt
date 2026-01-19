@@ -3324,3 +3324,5 @@
 - 悪魔の子 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pBoTd_rHxig)
 2026-01-19 04:06:01 extract queue：
 - POP IN 2 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oATugLhvyCk)
+2026-01-19 04:55:20 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=91xY5EJgxuA)
