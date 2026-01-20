@@ -3344,3 +3344,5 @@
 - 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EngdE71Q82w)
 2026-01-20 04:00:10 extract queue：
 - 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OXN9hpxoZeg)
+2026-01-20 04:50:42 extract queue：
+- 私は最強 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QSAN-75tHf4)
