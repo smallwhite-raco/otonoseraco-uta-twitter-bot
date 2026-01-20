@@ -3348,3 +3348,5 @@
 - 私は最強 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QSAN-75tHf4)
 2026-01-20 08:26:27 extract queue：
 - 花火 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dKCsSbr9Za4)
+2026-01-20 09:27:27 extract queue：
+- ロキ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2ZPnGqnopKQ)
