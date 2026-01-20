@@ -3350,3 +3350,5 @@
 - 花火 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dKCsSbr9Za4)
 2026-01-20 09:27:27 extract queue：
 - ロキ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2ZPnGqnopKQ)
+2026-01-20 10:20:00 extract queue：
+- ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DN7e7iKPdZ0)
