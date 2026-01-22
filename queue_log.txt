@@ -3384,3 +3384,5 @@
 - あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=n_Hif3MaaNU)
 2026-01-22 04:03:25 extract queue：
 - G4L / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Az-2YJy8bN0)
+2026-01-22 04:52:05 extract queue：
+- バレリーコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_RdHxCa2hSM)
