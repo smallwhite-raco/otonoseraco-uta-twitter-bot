@@ -3392,3 +3392,5 @@
 - ルマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DINg7ayzANM)
 2026-01-22 10:19:48 extract queue：
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vygMd6x1BtQ)
+2026-01-22 11:20:42 extract queue：
+- 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dZlYHYG6RPs)
