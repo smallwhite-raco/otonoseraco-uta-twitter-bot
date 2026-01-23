@@ -3414,3 +3414,5 @@
 - 花になって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dFjS1yzNd6E)
 2026-01-23 11:18:41 extract queue：
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r1I9OD2FIO8)
+2026-01-23 12:34:32 extract queue：
+- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CIBnBQHo06Q)
