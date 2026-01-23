@@ -3420,3 +3420,5 @@
 - 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YRJ-FNKXDr0)
 2026-01-23 14:15:55 extract queue：
 - ラヴィ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aFfN696Q61k)
+2026-01-23 15:15:34 extract queue：
+- 東京テディベア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AyApsePIgjY)
