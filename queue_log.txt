@@ -3416,3 +3416,5 @@
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=r1I9OD2FIO8)
 2026-01-23 12:34:32 extract queue：
 - ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CIBnBQHo06Q)
+2026-01-23 13:47:30 extract queue：
+- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YRJ-FNKXDr0)
