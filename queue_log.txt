@@ -3410,3 +3410,5 @@
 - からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oX_xpXXXvB4)
 2026-01-23 09:24:06 extract queue：
 - からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FcEh-iglvZ0)
+2026-01-23 10:17:15 extract queue：
+- 花になって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dFjS1yzNd6E)
