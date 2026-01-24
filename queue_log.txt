@@ -3436,3 +3436,5 @@
 - ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nGJuKUne9xU)
 2026-01-24 12:29:25 extract queue：
 - KICKBACK / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9XS8i47MVkc)
+2026-01-24 13:34:38 extract queue：
+- だれかの心臓になれたなら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=R4NIv8d3b1E)
