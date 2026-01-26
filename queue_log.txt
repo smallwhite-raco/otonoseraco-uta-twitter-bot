@@ -3470,3 +3470,5 @@
 - 【アカペラバラード】モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xDJ1vjvrS90)
 2026-01-26 09:28:19 extract queue：
 - CITRUS / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ukKwfsq3hT8)
+2026-01-26 10:19:13 extract queue：
+- きゅうくらりん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DHDhDMxpGWA)
