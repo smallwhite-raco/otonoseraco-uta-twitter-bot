@@ -3466,3 +3466,5 @@
 - 春泥棒 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LPJN8tT9-Lk)
 2026-01-26 04:57:35 extract queue：
 - デーモンロード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JVX_9r6WULs)
+2026-01-26 08:26:55 extract queue：
+- 【アカペラバラード】モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xDJ1vjvrS90)
