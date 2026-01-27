@@ -3492,3 +3492,5 @@
 - アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1R_vc6jbKR4)
 2026-01-27 10:19:48 extract queue：
 - アウターサイエンス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=g0g6c1zRc7g)
+2026-01-27 11:20:37 extract queue：
+- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JUHxw78TF0s)
