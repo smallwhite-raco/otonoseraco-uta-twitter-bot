@@ -3504,3 +3504,5 @@
 - ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4uGlkHnz36w)
 2026-01-28 04:00:14 extract queue：
 - ずうっといっしょ！ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KHdmat9z004)
+2026-01-28 04:48:36 extract queue：
+- ヒッチコック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5mqU51m0Cmc)
