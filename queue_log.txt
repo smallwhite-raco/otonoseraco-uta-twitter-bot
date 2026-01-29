@@ -3540,3 +3540,5 @@
 - 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SXIq5AjTfEg)
 2026-01-29 14:31:12 extract queue：
 - あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cl0Sm46ln9o)
+2026-01-29 15:25:20 extract queue：
+- 花火 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_gkHfwwJqEU)
