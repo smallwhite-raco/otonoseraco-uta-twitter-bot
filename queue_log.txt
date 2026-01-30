@@ -3550,3 +3550,5 @@
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GS6FgyDkGUU)
 2026-01-30 09:32:07 extract queue：
 - ハングリーニコル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=w1ap51X5i4o)
+2026-01-30 10:25:34 extract queue：
+- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=I-xD6LwOZq8)
