@@ -3574,3 +3574,5 @@
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=I2fn59z1iiE)
 2026-01-31 11:18:16 extract queue：
 - Henceforth / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PEJE3ovjcNw)
+2026-01-31 12:33:59 extract queue：
+- 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=F4i_8aV8uYE)
