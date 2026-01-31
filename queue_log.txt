@@ -3572,3 +3572,5 @@
 - 愛属性 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Htnwk6vRxEY)
 2026-01-31 10:16:33 extract queue：
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=I2fn59z1iiE)
+2026-01-31 11:18:16 extract queue：
+- Henceforth / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PEJE3ovjcNw)
