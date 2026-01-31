@@ -3580,3 +3580,5 @@
 - モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=RoJjwZ8pDUU)
 2026-01-31 14:14:35 extract queue：
 - クリスマスソング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iz32oitZ8jk)
+2026-01-31 15:13:35 extract queue：
+- ビターチョコデコレーション / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=eYm_xq7Nh24)
