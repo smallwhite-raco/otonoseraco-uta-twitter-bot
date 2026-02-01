@@ -3590,3 +3590,5 @@
 - 少女レイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=18bLtYnmAbs)
 2026-02-01 09:24:12 extract queue：
 - Dec. / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MbXvPgVVevo)
+2026-02-01 10:17:48 extract queue：
+- 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6grW7bqrj1k)
