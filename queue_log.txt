@@ -3610,3 +3610,5 @@
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_-pll6zgceo)
 2026-02-02 09:39:25 extract queue：
 - グッバイ宣言 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cAtN4EVAxZY)
+2026-02-02 10:36:25 extract queue：
+- ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TtiEu6g7QDk)
