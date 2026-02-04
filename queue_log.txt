@@ -3640,3 +3640,5 @@
 - テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oYzwQneq4-g)
 2026-02-03 15:38:55 extract queue：
 - 四季折々に揺蕩いて / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qOhQ8VrOidQ)
+2026-02-04 04:23:28 extract queue：
+- 明日の私に幸あれ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HfdtFoE9tGU)
