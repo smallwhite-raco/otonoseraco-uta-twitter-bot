@@ -3664,3 +3664,5 @@
 - からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=F1RpeBHsszM)
 2026-02-05 05:17:56 extract queue：
 - ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=UTZ0JcUGqs8)
+2026-02-05 08:37:52 extract queue：
+- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NWfFBdjaAFQ)
