@@ -3692,3 +3692,5 @@
 - ヤミタイガール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wB1k_s_X7yY)
 2026-02-06 11:31:15 extract queue：
 - KING / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3jJjsaPdB7I)
+2026-02-06 12:43:40 extract queue：
+- 残響散歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IHB0-vDmUqo)
