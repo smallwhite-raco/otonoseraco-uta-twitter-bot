@@ -3716,3 +3716,5 @@
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Dt1q1HrYcow)
 2026-02-07 14:16:10 extract queue：
 - テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=b_biVhBMfJM)
+2026-02-07 15:15:07 extract queue：
+- アスノヨゾラ哨戒班 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7ihMl0m4xPs)
