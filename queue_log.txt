@@ -3708,3 +3708,5 @@
 - 君の知らない物語 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=tTT07Db0N_I)
 2026-02-07 10:18:05 extract queue：
 - レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qKCtEZYHMyo)
+2026-02-07 11:19:14 extract queue：
+- 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yTaRrfD4QNg)
