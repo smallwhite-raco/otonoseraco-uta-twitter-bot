@@ -3740,3 +3740,5 @@
 - ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=bhb0u3ql5QA)
 2026-02-09 04:52:12 extract queue：
 - I wonder / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jY2bIIKhfRI)
+2026-02-09 05:39:16 extract queue：
+- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xjVXeXhqxlo)
