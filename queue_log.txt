@@ -3752,3 +3752,5 @@
 - ハローディストピア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=puTegCBHFSQ)
 2026-02-09 12:56:02 extract queue：
 - テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2iO99WSjFOI)
+2026-02-09 14:16:28 extract queue：
+- IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gRhxm0PO6N0)
