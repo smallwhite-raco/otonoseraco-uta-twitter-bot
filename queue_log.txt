@@ -3750,3 +3750,5 @@
 - サイレントマジョリティー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uoJJmps_HnU)
 2026-02-09 11:42:14 extract queue：
 - ハローディストピア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=puTegCBHFSQ)
+2026-02-09 12:56:02 extract queue：
+- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2iO99WSjFOI)
