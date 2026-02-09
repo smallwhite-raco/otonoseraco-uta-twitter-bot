@@ -3754,3 +3754,5 @@
 - テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2iO99WSjFOI)
 2026-02-09 14:16:28 extract queue：
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gRhxm0PO6N0)
+2026-02-09 14:44:15 extract queue：
+- 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LH0asB_NjLg)
