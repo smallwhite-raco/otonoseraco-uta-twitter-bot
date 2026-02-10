@@ -3758,3 +3758,5 @@
 - 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LH0asB_NjLg)
 2026-02-09 15:44:04 extract queue：
 - わたしのアール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sCQuO0uWQyY)
+2026-02-10 04:55:32 extract queue：
+- イガク / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1mMuz7nMSjY)
