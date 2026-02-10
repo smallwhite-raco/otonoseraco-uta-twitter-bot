@@ -3776,3 +3776,5 @@
 - POP IN 2【歌い手グループ】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SCM4hgkGshI)
 2026-02-10 14:50:44 extract queue：
 - 天ノ弱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=W3poj0e7ZVE)
+2026-02-10 15:56:08 extract queue：
+- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FAMV8fjg610)
