@@ -3784,3 +3784,5 @@
 - ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=f_J05AxDnHA)
 2026-02-11 11:42:12 extract queue：
 - ワールズエンド・ダンスホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=v5chYeWQn1U)
+2026-02-11 14:17:34 extract queue：
+- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=XRGrm4Of4yk)
