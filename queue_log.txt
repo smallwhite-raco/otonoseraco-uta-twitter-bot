@@ -3786,3 +3786,5 @@
 - ワールズエンド・ダンスホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=v5chYeWQn1U)
 2026-02-11 14:17:34 extract queue：
 - 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=XRGrm4Of4yk)
+2026-02-11 14:45:08 extract queue：
+- カワキヲアメク / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WH6_HMtwyog)
