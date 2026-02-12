@@ -3800,3 +3800,5 @@
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=psOug5OR62M)
 2026-02-12 10:36:23 extract queue：
 - レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=AYYQou78nWM)
+2026-02-12 11:37:32 extract queue：
+- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Jl9Mqq7ei6o)
