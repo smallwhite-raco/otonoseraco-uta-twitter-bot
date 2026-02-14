@@ -3832,3 +3832,5 @@
 - シリョクケンサ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FkfT3nwP5-I)
 2026-02-14 08:26:36 extract queue：
 - ベノム / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KxAlPk9WjSY)
+2026-02-14 09:24:22 extract queue：
+- ラビットホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Sm9WKODCp_g)
