@@ -3840,3 +3840,5 @@
 - ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=23JTr8j5rhs)
 2026-02-14 12:33:53 extract queue：
 - 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=bHW4Kq9rQ7g)
+2026-02-14 13:49:17 extract queue：
+- ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CIBnBQHo06Q)
