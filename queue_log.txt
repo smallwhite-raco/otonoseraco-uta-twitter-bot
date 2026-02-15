@@ -3846,3 +3846,5 @@
 - フリージア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ib0ltJgsAeM)
 2026-02-14 15:15:47 extract queue：
 - ゴーストルール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GN73QI9Ywfo)
+2026-02-15 04:46:55 extract queue：
+- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WiXD8ngWBZo)
