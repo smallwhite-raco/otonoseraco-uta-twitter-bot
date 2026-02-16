@@ -3878,3 +3878,5 @@
 - モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JkMxa-z3vUM)
 2026-02-16 11:38:10 extract queue：
 - QUEEN / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s5Zab-O6iP4)
+2026-02-16 12:49:43 extract queue：
+- 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TyScQLaK_sg)
