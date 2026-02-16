@@ -3876,3 +3876,5 @@
 - ハロ／ハワユ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=js_MzCbUz6w)
 2026-02-16 10:41:04 extract queue：
 - モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JkMxa-z3vUM)
+2026-02-16 11:38:10 extract queue：
+- QUEEN / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s5Zab-O6iP4)
