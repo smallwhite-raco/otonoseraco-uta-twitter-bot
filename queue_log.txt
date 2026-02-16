@@ -3882,3 +3882,5 @@
 - 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TyScQLaK_sg)
 2026-02-16 14:07:04 extract queue：
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=itPIsDtbXko)
+2026-02-16 14:35:07 extract queue：
+- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=docew5poE_A)
