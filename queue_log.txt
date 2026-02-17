@@ -3902,3 +3902,5 @@
 - ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1eai9I4AEUc)
 2026-02-17 14:08:38 extract queue：
 - テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=kStWbY8YILc)
+2026-02-17 14:38:34 extract queue：
+- 花になって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GVNv3iaNU_Y)
