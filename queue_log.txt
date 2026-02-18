@@ -3914,3 +3914,5 @@
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wMHkfMHYDt0)
 2026-02-18 09:39:26 extract queue：
 - デーモンロード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=45muHcKDFes)
+2026-02-18 10:36:12 extract queue：
+- 決戦スピリット / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FidNFyKnwCw)
