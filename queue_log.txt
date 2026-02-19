@@ -3924,3 +3924,5 @@
 - ひゅるりらぱっぱ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QF-BgOvhg6E)
 2026-02-18 15:40:17 extract queue：
 - サマータイムレコード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VMzQ02i-q7Y)
+2026-02-19 04:45:01 extract queue：
+- メズマライザー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VNtkMNTEPnw)
