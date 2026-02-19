@@ -3930,3 +3930,5 @@
 - 晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1fnexQfhrL0)
 2026-02-19 08:38:04 extract queue：
 - テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5DEqTuw-Nw8)
+2026-02-19 09:37:55 extract queue：
+- メフィスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=m8sbwH9abgw)
