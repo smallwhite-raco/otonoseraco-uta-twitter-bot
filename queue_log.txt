@@ -3926,3 +3926,5 @@
 - サマータイムレコード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VMzQ02i-q7Y)
 2026-02-19 04:45:01 extract queue：
 - メズマライザー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VNtkMNTEPnw)
+2026-02-19 05:22:56 extract queue：
+- 晩餐歌 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1fnexQfhrL0)
