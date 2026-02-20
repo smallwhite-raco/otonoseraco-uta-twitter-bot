@@ -3948,3 +3948,5 @@
 - ギラギラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FIoSdO-R-w8)
 2026-02-20 05:17:54 extract queue：
 - only my railgun / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cd74ifkDanI)
+2026-02-20 08:35:13 extract queue：
+- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=O5oQan47au8)
