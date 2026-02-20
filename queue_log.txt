@@ -3950,3 +3950,5 @@
 - only my railgun / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cd74ifkDanI)
 2026-02-20 08:35:13 extract queue：
 - 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=O5oQan47au8)
+2026-02-20 09:34:10 extract queue：
+- 地球最後の告白を / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LD-XWU2kYDc)
