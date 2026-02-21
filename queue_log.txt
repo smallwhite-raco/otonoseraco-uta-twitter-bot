@@ -3964,3 +3964,5 @@
 - ロストワンの号哭 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=q7hEdZX1MlI)
 2026-02-20 15:29:22 extract queue：
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0BVbYfZrhHU)
+2026-02-21 04:21:21 extract queue：
+- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3dozSsZK9no)
