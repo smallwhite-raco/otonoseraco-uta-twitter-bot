@@ -3994,3 +3994,5 @@
 - 東京テディベア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=niQLtDM7_dA)
 2026-02-22 10:16:53 extract queue：
 - ロキ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fOMn_Xk1DEM)
+2026-02-22 11:18:40 extract queue：
+- あんずの花 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6iZzQU8piuo)
