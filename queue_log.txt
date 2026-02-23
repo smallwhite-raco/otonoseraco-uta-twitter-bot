@@ -4012,3 +4012,5 @@
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_-pll6zgceo)
 2026-02-23 09:46:30 extract queue：
 - PPPP / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fgo41jC5Wzs)
+2026-02-23 10:41:40 extract queue：
+- アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1R_vc6jbKR4)
