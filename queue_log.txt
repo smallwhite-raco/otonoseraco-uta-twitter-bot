@@ -4016,3 +4016,5 @@
 - アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1R_vc6jbKR4)
 2026-02-23 11:37:27 extract queue：
 - 【アカペラバラード】深海少女 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=h8ZvAxqzfB4)
+2026-02-23 12:50:59 extract queue：
+- 東京テディベア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lVOrVzObqyY)
