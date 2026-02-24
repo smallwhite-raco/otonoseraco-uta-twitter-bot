@@ -4038,3 +4038,5 @@
 - ピースサイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=N1vt_V5ApO4)
 2026-02-24 12:52:11 extract queue：
 - ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WmMGrdkwSLQ)
+2026-02-24 14:12:53 extract queue：
+- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1VPif2oGVI0)
