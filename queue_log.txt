@@ -4040,3 +4040,5 @@
 - ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WmMGrdkwSLQ)
 2026-02-24 14:12:53 extract queue：
 - 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1VPif2oGVI0)
+2026-02-24 14:43:19 extract queue：
+- ジレンマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pfuHzR9HDQg)
