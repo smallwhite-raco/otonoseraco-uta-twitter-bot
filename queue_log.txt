@@ -4042,3 +4042,5 @@
 - 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1VPif2oGVI0)
 2026-02-24 14:43:19 extract queue：
 - ジレンマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pfuHzR9HDQg)
+2026-02-24 15:45:06 extract queue：
+- ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TMZJHiXfVr0)
