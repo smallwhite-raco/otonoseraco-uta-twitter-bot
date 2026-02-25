@@ -4050,3 +4050,5 @@
 - シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aVUwzEiM-3o)
 2026-02-25 08:42:07 extract queue：
 - 臨界ダイバー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yST52gWe3uY)
+2026-02-25 09:45:24 extract queue：
+- アンノウン・マザーグース / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GXEE5mQjaj0)
