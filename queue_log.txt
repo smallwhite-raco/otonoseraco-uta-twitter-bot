@@ -4056,3 +4056,5 @@
 - バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YDyy2Nw-SuA)
 2026-02-25 11:38:30 extract queue：
 - 私は最強 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Ofs1XTh9dbk)
+2026-02-25 12:51:19 extract queue：
+- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xKROUVywHh0)
