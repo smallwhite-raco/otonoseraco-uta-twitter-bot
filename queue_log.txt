@@ -4046,3 +4046,5 @@
 - ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TMZJHiXfVr0)
 2026-02-25 04:45:00 extract queue：
 - QUEEN / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pkJqxdtq7XA)
+2026-02-25 05:24:07 extract queue：
+- シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aVUwzEiM-3o)
