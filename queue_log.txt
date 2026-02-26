@@ -4072,3 +4072,5 @@
 - ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5QUYKH4aCIw)
 2026-02-26 14:11:55 extract queue：
 - 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nygHmALUe_8)
+2026-02-26 14:41:08 extract queue：
+- チェリーポップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=j2Qiwc6z0QY)
