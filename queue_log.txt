@@ -4076,3 +4076,5 @@
 - チェリーポップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=j2Qiwc6z0QY)
 2026-02-26 15:42:26 extract queue：
 - ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=si00YJypYs0)
+2026-02-27 04:28:11 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=00KkrumsWVI)
