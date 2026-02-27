@@ -4090,3 +4090,5 @@
 - LOSER / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CA1R8G98sQY)
 2026-02-27 12:42:57 extract queue：
 - CITRUS / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xjhdmu6-mtw)
+2026-02-27 14:01:23 extract queue：
+- ハナタバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zfcbpWE2iyM)
