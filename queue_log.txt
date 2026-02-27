@@ -4086,3 +4086,5 @@
 - 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OIT_bdDIR3o)
 2026-02-27 10:29:32 extract queue：
 - モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fJmOFmo552I)
+2026-02-27 11:29:46 extract queue：
+- LOSER / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CA1R8G98sQY)
