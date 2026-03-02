@@ -4100,3 +4100,5 @@
 - プラネタリウム / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wmfT6oG7xVU)
 2026-03-02 10:36:21 extract queue：
 - ドライフラワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Uk7_NskhzrA)
+2026-03-02 11:29:53 extract queue：
+- あなたの夜が明けるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=W3Fr-zAhuro)
