@@ -4114,3 +4114,5 @@
 - HenceForce / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jkgQr4CLHug)
 2026-03-03 05:15:23 extract queue：
 - ハッピーラッキーチャッピー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JCMRo9AQnEg)
+2026-03-03 08:35:01 extract queue：
+- バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TUuKU6DlNYk)
