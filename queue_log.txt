@@ -4118,3 +4118,5 @@
 - バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TUuKU6DlNYk)
 2026-03-03 09:35:08 extract queue：
 - キャットラビング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=373M6PN9wfA)
+2026-03-03 10:31:08 extract queue：
+- 心という名の不可解 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZsND-Ah012w)
