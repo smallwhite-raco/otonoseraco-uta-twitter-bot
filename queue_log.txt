@@ -4126,3 +4126,5 @@
 - ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4bKOeYfBfzI)
 2026-03-03 14:01:35 extract queue：
 - ウタカタララバイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Z6Gs2C1F7Dc)
+2026-03-03 14:36:04 extract queue：
+- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EyiXlE2GDfk)
