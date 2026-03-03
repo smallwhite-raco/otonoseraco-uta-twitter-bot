@@ -4112,3 +4112,5 @@
 - 忘れてやらない / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Y2t4be1g7ok)
 2026-03-03 04:28:42 extract queue：
 - HenceForce / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jkgQr4CLHug)
+2026-03-03 05:15:23 extract queue：
+- ハッピーラッキーチャッピー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JCMRo9AQnEg)
