@@ -4110,3 +4110,5 @@
 - ローリンガール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=SARbKHTdrkc)
 2026-03-02 15:31:33 extract queue：
 - 忘れてやらない / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Y2t4be1g7ok)
+2026-03-03 04:28:42 extract queue：
+- HenceForce / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jkgQr4CLHug)
