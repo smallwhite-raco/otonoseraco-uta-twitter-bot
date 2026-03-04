@@ -4136,3 +4136,5 @@
 - 花火 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_gkHfwwJqEU)
 2026-03-04 08:33:29 extract queue：
 - キャットラビング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=D0iIfeRbxb8)
+2026-03-04 09:33:39 extract queue：
+- ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CIwyYPcxTEs)
