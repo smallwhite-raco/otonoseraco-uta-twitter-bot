@@ -4154,3 +4154,5 @@
 - シュガーソングとビターステップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=o44Wc0ns5QE)
 2026-03-05 05:14:12 extract queue：
 - アイドル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hUmrWUMUQW0)
+2026-03-05 08:35:34 extract queue：
+- 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TSJsf-feX0k)
