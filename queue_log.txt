@@ -4150,3 +4150,5 @@
 - ハッピーエンド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HiLDEXjzs-w)
 2026-03-04 15:31:14 extract queue：
 - ギラギラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8fiHGba3ol8)
+2026-03-05 04:27:03 extract queue：
+- シュガーソングとビターステップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=o44Wc0ns5QE)
