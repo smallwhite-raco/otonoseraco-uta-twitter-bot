@@ -4212,3 +4212,5 @@
 - レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gSEzfyhInwA)
 2026-03-08 08:26:01 extract queue：
 - ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=74bgGbmz9I4)
+2026-03-08 09:22:48 extract queue：
+- Mela! / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KNl62pS_W88)
