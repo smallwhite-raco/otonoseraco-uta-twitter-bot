@@ -4240,3 +4240,5 @@
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Dt1q1HrYcow)
 2026-03-09 12:46:52 extract queue：
 - アタシは問題作 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Q6vqsUdcHQ8)
+2026-03-09 14:08:32 extract queue：
+- 名前のない怪物 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ND4pb05rJFc)
