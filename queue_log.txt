@@ -4254,3 +4254,5 @@
 - 夜に駆ける / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_qnrb24z-VU)
 2026-03-10 09:37:03 extract queue：
 - メランコリック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LAWjM5Bj1qk)
+2026-03-10 10:31:23 extract queue：
+- ロキ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=V0wr8JhdU9o)
