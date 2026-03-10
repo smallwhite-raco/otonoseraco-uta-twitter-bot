@@ -4260,3 +4260,5 @@
 - 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QxB0CthB8kA)
 2026-03-10 12:44:38 extract queue：
 - ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JO6t2ksZdJQ)
+2026-03-10 14:03:12 extract queue：
+- 生きる / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uhz42EC37qk)
