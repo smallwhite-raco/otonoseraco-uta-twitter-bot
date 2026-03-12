@@ -4288,3 +4288,5 @@
 - チェリーポップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MM2U3hd3ms8)
 2026-03-12 04:28:14 extract queue：
 - Soranji / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HiHmwFiyHOY)
+2026-03-12 05:16:56 extract queue：
+- 恥ずかしいか青春は / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=N0SlidJ8t-0)
