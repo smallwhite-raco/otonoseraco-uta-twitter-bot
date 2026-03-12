@@ -4286,3 +4286,5 @@
 - Ghost of a Smile / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_MWFX312G0Y)
 2026-03-11 15:37:29 extract queue：
 - チェリーポップ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MM2U3hd3ms8)
+2026-03-12 04:28:14 extract queue：
+- Soranji / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HiHmwFiyHOY)
