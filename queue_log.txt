@@ -4306,3 +4306,5 @@
 - 永遠のあくる日 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HeuMs0v0HGA)
 2026-03-12 15:45:46 extract queue：
 - only my railgun / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WUEYGRvPhJI)
+2026-03-13 04:26:38 extract queue：
+- ハローディストピア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=P8ShJ4G6DGU)
