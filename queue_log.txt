@@ -4336,3 +4336,5 @@
 - 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CunpH8RyUIY)
 2026-03-14 10:19:56 extract queue：
 - オーバーライド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nxnTfu2E_Io)
+2026-03-14 11:21:07 extract queue：
+- 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GTdiB3ojxkU)
