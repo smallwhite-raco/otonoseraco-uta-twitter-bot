@@ -4360,3 +4360,5 @@
 - ワールドイズマイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hYccdse6SJk)
 2026-03-15 12:38:25 extract queue：
 - ワールドイズマイン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sk69ruIVskY)
+2026-03-15 13:50:53 extract queue：
+- ただ君に晴れ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WnB7778hHmk)
