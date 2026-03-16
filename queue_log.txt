@@ -4374,3 +4374,5 @@
 - ラビットホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Sm9WKODCp_g)
 2026-03-16 09:58:39 extract queue：
 - 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EUSUizSa7hY)
+2026-03-16 10:46:43 extract queue：
+- かくれんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QSorEsT49TY)
