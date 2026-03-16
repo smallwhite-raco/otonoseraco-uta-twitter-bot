@@ -4372,3 +4372,5 @@
 - プロトディスコ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ayDAS9XRTII)
 2026-03-16 08:51:17 extract queue：
 - ラビットホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Sm9WKODCp_g)
+2026-03-16 09:58:39 extract queue：
+- 群青 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EUSUizSa7hY)
