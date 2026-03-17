@@ -4394,3 +4394,5 @@
 - 花になって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=irm5-09doRE)
 2026-03-17 09:49:28 extract queue：
 - Tot Musica / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=FCGrqPqefqo)
+2026-03-17 10:41:56 extract queue：
+- 僕が夢を捨てて大人になるまで / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=f1ZasiJ4NJ8)
