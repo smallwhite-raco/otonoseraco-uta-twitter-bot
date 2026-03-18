@@ -4422,3 +4422,5 @@
 - 魔法少女とチョコレゐト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DmvrEPZTFzc)
 2026-03-18 14:23:07 extract queue：
 - Dec. / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QsUICpXeoSM)
+2026-03-18 14:55:17 extract queue：
+- Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GS6FgyDkGUU)
