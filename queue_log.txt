@@ -4424,3 +4424,5 @@
 - Dec. / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QsUICpXeoSM)
 2026-03-18 14:55:17 extract queue：
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GS6FgyDkGUU)
+2026-03-18 15:59:48 extract queue：
+- テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=NsetOPwpjdE)
