@@ -4440,3 +4440,5 @@
 - 花火 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5QZbNB4t7h0)
 2026-03-19 12:51:20 extract queue：
 - ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=a9tUj6fsLgc)
+2026-03-19 14:09:24 extract queue：
+- ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aD9gZA9CQjI)
