@@ -4442,3 +4442,5 @@
 - ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=a9tUj6fsLgc)
 2026-03-19 14:09:24 extract queue：
 - ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=aD9gZA9CQjI)
+2026-03-19 14:40:42 extract queue：
+- 鬼ノ宴 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Sxjm-fWPfkk)
