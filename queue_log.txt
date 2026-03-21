@@ -4474,3 +4474,5 @@
 - 【アカペラバラード】ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C_xGhXunr-w)
 2026-03-21 09:25:34 extract queue：
 - ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QF3NXLvxreY)
+2026-03-21 10:18:37 extract queue：
+- 【カワボ】可愛くてごめん / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VE58HVoFR3o)
