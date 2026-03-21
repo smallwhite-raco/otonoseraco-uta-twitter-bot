@@ -4470,3 +4470,5 @@
 - Stella Stella / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=U62dAUeHmZM)
 2026-03-21 05:08:02 extract queue：
 - ルマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DINg7ayzANM)
+2026-03-21 08:27:15 extract queue：
+- 【アカペラバラード】ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=C_xGhXunr-w)
