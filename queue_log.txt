@@ -4488,3 +4488,5 @@
 - ファンサ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OGrDT-KU128)
 2026-03-22 04:45:02 extract queue：
 - 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ABdViFrprZU)
+2026-03-22 05:20:13 extract queue：
+- からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=S0fj7rzrNX4)
