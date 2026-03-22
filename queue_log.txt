@@ -4504,3 +4504,5 @@
 - テレパシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QfVHnLsNBQA)
 2026-03-22 14:18:13 extract queue：
 - ドラマツルギー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yq5vQO88-hU)
+2026-03-22 15:16:16 extract queue：
+- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fJmOFmo552I)
