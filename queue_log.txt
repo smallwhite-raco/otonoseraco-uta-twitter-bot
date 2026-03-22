@@ -4486,3 +4486,5 @@
 - Henceforth / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=YsR18PO9DRQ)
 2026-03-21 15:16:11 extract queue：
 - ファンサ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=OGrDT-KU128)
+2026-03-22 04:45:02 extract queue：
+- 抜錨 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ABdViFrprZU)
