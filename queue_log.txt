@@ -4520,3 +4520,5 @@
 - ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qa9IEvbTOwg)
 2026-03-23 12:53:06 extract queue：
 - 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8k0D-hY8KpI)
+2026-03-23 14:17:22 extract queue：
+- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2Yb6HXBgDCg)
