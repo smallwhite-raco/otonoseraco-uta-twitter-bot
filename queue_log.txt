@@ -4522,3 +4522,5 @@
 - 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8k0D-hY8KpI)
 2026-03-23 14:17:22 extract queue：
 - ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2Yb6HXBgDCg)
+2026-03-23 14:48:20 extract queue：
+- デーモンロード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=b_dpwRmY908)
