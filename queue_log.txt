@@ -4530,3 +4530,5 @@
 - オーバーライド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=UUy2OWlG03g)
 2026-03-24 05:24:28 extract queue：
 - 雨とカプチーノ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lMKzAheEZU4)
+2026-03-24 08:46:03 extract queue：
+- 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6e08_FZz6DU)
