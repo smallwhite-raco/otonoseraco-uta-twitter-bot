@@ -4534,3 +4534,5 @@
 - 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6e08_FZz6DU)
 2026-03-24 09:49:51 extract queue：
 - からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ChS2xTYVEWY)
+2026-03-24 10:42:43 extract queue：
+- 魔法の絨毯 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5YR7KV8vLBs)
