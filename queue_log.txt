@@ -4542,3 +4542,5 @@
 - Dec. / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=s8GoWzAeVX8)
 2026-03-24 14:20:19 extract queue：
 - 星座になれたら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=t8w-C6wHb2M)
+2026-03-24 14:50:02 extract queue：
+- カワキヲアメク / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=XwItDDbC5_k)
