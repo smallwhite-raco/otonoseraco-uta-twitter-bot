@@ -4560,3 +4560,5 @@
 - デーモンロード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rRbsybL4qD0)
 2026-03-25 12:55:17 extract queue：
 - フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EyiXlE2GDfk)
+2026-03-25 14:19:52 extract queue：
+- 拝啓、少年よ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8KBHAWueC4A)
