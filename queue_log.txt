@@ -4548,3 +4548,5 @@
 - レディメイド / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hv_dtdQieTw)
 2026-03-25 04:46:41 extract queue：
 - G4L / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=lGY4tiSyaME)
+2026-03-25 05:24:24 extract queue：
+- エルフ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=pbggp7Bm8PM)
