@@ -4562,3 +4562,5 @@
 - フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EyiXlE2GDfk)
 2026-03-25 14:19:52 extract queue：
 - 拝啓、少年よ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8KBHAWueC4A)
+2026-03-25 14:51:31 extract queue：
+- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JWrolp7P8Jo)
