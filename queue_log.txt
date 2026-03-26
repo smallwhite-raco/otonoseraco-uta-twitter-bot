@@ -4576,3 +4576,5 @@
 - 怪獣の花唄 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-6RWXMtZW_I)
 2026-03-26 10:44:39 extract queue：
 - バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Uc6arq79leE)
+2026-03-26 11:47:45 extract queue：
+- GO FOR IT !! / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=syIxN9sPuWo)
