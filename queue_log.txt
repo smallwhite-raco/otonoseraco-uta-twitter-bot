@@ -4578,3 +4578,5 @@
 - バグ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Uc6arq79leE)
 2026-03-26 11:47:45 extract queue：
 - GO FOR IT !! / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=syIxN9sPuWo)
+2026-03-26 12:59:50 extract queue：
+- ロキ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=B_BK7h2GYRM)
