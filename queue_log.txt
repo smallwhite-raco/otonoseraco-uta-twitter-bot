@@ -4582,3 +4582,5 @@
 - ロキ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=B_BK7h2GYRM)
 2026-03-26 14:26:22 extract queue：
 - ローリンガール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=n0fs5L-Ov5Y)
+2026-03-26 14:55:26 extract queue：
+- KICKBACK / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9XS8i47MVkc)
