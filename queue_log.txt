@@ -4572,3 +4572,5 @@
 - 花瓶に触れた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=5DOzRuh8NpA)
 2026-03-26 08:48:50 extract queue：
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9bkGXZdVe3g)
+2026-03-26 09:55:28 extract queue：
+- 怪獣の花唄 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-6RWXMtZW_I)
