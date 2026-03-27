@@ -4588,3 +4588,5 @@
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hu-dCFT64ko)
 2026-03-27 04:59:17 extract queue：
 - 唱 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=8qDy6zyA0oM)
+2026-03-27 05:43:56 extract queue：
+- ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=jZJZ17lmk9s)
