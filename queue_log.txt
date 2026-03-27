@@ -4594,3 +4594,5 @@
 - ツキミソウ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WmKg0xoOJUM)
 2026-03-27 09:47:59 extract queue：
 - エルフ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=iuUU5ejyRpQ)
+2026-03-27 10:39:52 extract queue：
+- I wonder / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QlaEEvFjwVE)
