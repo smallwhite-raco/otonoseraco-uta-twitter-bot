@@ -4632,3 +4632,5 @@
 - KING / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VaM6BY0kfzo)
 2026-03-29 08:35:00 extract queue：
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7tyCU1ngRzY)
+2026-03-29 09:30:19 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wnhOESFBuws)
