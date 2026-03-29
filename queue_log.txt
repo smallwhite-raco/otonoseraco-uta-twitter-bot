@@ -4638,3 +4638,5 @@
 - ドーナツホール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=9ysa3E3G63c)
 2026-03-29 11:26:12 extract queue：
 - ロウワー / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=J6u-mcYxbA4)
+2026-03-29 12:40:10 extract queue：
+- 【アカペラバラード】生きる / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=mhSE79rVECQ)
