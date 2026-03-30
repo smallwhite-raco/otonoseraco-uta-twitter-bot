@@ -4654,3 +4654,5 @@
 - からくりピエロ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=rPj8dUDP1SQ)
 2026-03-30 10:10:18 extract queue：
 - アタシは問題作 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=DF0WNPzzuaw)
+2026-03-30 10:55:26 extract queue：
+- モザイクロール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oPLnWioJQ2g)
