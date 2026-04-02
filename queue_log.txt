@@ -4724,3 +4724,5 @@
 - 初音ミクの消失 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qZ2Ms88g-4s)
 2026-04-02 14:45:37 extract queue：
 - モザイクロール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Hpo_tpebZlY)
+2026-04-02 15:50:20 extract queue：
+- 花瓶に触れた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=o-ovdWGy09k)
