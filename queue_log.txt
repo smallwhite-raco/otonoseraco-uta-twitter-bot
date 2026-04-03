@@ -4740,3 +4740,5 @@
 - 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TQOYg2gbDjs)
 2026-04-03 12:50:26 extract queue：
 - ビビデバ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nGJuKUne9xU)
+2026-04-03 14:03:45 extract queue：
+- ハオ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qsSdOn5Sk_w)
