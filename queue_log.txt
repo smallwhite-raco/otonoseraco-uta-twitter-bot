@@ -4758,3 +4758,5 @@
 - それがあなたの幸せとしても / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=7mTf-nx5SA0)
 2026-04-04 11:26:37 extract queue：
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=_-pll6zgceo)
+2026-04-04 12:40:04 extract queue：
+- Soranji / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nLASMGzwljw)
