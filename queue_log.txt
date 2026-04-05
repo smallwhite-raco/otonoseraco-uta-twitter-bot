@@ -4764,3 +4764,5 @@
 - さくらんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ZJ4C6rwsKNk)
 2026-04-05 08:37:24 extract queue：
 - 命に嫌われている。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wZHD2cBcguw)
+2026-04-05 10:25:01 extract queue：
+- ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sGP43W8WIs0)
