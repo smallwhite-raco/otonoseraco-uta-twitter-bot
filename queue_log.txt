@@ -4766,3 +4766,5 @@
 - 命に嫌われている。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wZHD2cBcguw)
 2026-04-05 10:25:01 extract queue：
 - ヒバナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sGP43W8WIs0)
+2026-04-05 11:26:53 extract queue：
+- ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=q6mJZVR-8BU)
