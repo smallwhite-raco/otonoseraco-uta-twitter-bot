@@ -4790,3 +4790,5 @@
 - モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GLc0KXU0M8s)
 2026-04-06 14:39:20 extract queue：
 - 雨とカプチーノ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cqtecPfmDtU)
+2026-04-06 15:36:35 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MHhvd7LgJw4)
