@@ -4780,3 +4780,5 @@
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0bw86l0cLw4)
 2026-04-06 10:02:42 extract queue：
 - 花瓶に触れた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=KGcEADXIZzA)
+2026-04-06 10:48:51 extract queue：
+- かくれんぼ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=fTz4g-qiZKc)
