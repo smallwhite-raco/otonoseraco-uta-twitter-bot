@@ -4786,3 +4786,5 @@
 - 夢のまた夢 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4Fubjjrmnpk)
 2026-04-06 12:57:17 extract queue：
 - POP IN 2【通常ver. 】 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4PRW4j9TER4)
+2026-04-06 14:12:14 extract queue：
+- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=GLc0KXU0M8s)
