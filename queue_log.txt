@@ -4806,3 +4806,5 @@
 - I wonder / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4YoftQj8WZ8)
 2026-04-07 13:06:07 extract queue：
 - ファタール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=si00YJypYs0)
+2026-04-07 14:46:35 extract queue：
+- サマータイムレコード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3v9AoatkDSI)
