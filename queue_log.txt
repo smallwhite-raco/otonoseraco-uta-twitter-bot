@@ -4798,3 +4798,5 @@
 - のだ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IrdqTzASpSE)
 2026-04-07 08:56:18 extract queue：
 - アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=W2EwHRS9rfg)
+2026-04-07 10:02:20 extract queue：
+- 勇者 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=U70RpjfR3P0)
