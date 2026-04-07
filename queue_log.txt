@@ -4796,3 +4796,5 @@
 - Alice in 冷凍庫 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=qIgqLAc5mX4)
 2026-04-07 05:48:05 extract queue：
 - のだ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=IrdqTzASpSE)
+2026-04-07 08:56:18 extract queue：
+- アイデンティティ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=W2EwHRS9rfg)
