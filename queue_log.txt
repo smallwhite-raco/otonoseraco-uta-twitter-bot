@@ -4814,3 +4814,5 @@
 - ジェヘナ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=TMzRWVbuf5w)
 2026-04-08 05:02:51 extract queue：
 - YELL / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=028j8kZvBDc)
+2026-04-08 05:48:58 extract queue：
+- ノンブレス・オブリージュ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Qt7dBP4cppI)
