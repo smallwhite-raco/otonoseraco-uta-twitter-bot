@@ -4832,3 +4832,5 @@
 - ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dOKhGIDboIU)
 2026-04-08 16:07:19 extract queue：
 - アイロニ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=D9jpuwS5F_E)
+2026-04-09 05:00:30 extract queue：
+- あの夢をなぞって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-8gQeQzNIiw)
