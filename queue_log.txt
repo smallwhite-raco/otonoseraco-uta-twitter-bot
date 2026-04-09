@@ -4844,3 +4844,5 @@
 - セレナーデ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Momy6eh-YZc)
 2026-04-09 11:53:26 extract queue：
 - 愛属性 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Htnwk6vRxEY)
+2026-04-09 13:11:00 extract queue：
+- 藍二乗 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Fne9VetrzGo)
