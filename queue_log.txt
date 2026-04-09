@@ -4834,3 +4834,5 @@
 - アイロニ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=D9jpuwS5F_E)
 2026-04-09 05:00:30 extract queue：
 - あの夢をなぞって / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=-8gQeQzNIiw)
+2026-04-09 05:50:39 extract queue：
+- カワキヲアメク / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=2X7S-uJB8Vk)
