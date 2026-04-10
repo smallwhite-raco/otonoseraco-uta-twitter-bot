@@ -4870,3 +4870,5 @@
 - テレキャスタービーボーイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=cihORrtAFQA)
 2026-04-10 14:41:03 extract queue：
 - ダーリン / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=uGoLbdIgW94)
+2026-04-10 15:40:12 extract queue：
+- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=WiXD8ngWBZo)
