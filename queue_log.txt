@@ -4856,3 +4856,5 @@
 - 秒針を噛む / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yVrf4P4x3Dc)
 2026-04-10 06:00:25 extract queue：
 - ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=LTMTuv39jno)
+2026-04-10 09:03:47 extract queue：
+- フォニイ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=1ooxV442R0k)
