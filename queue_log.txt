@@ -4890,3 +4890,5 @@
 - サマータイムレコード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=VMzQ02i-q7Y)
 2026-04-11 14:27:17 extract queue：
 - Ghost of a smile / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JVz3ueQ9lto)
+2026-04-11 15:23:21 extract queue：
+- ラヴィ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=K8n9kLjHCAY)
