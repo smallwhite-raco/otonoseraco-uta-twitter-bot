@@ -4910,3 +4910,5 @@
 - IRIS OUT / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QhrWMYq982Y)
 2026-04-12 15:26:57 extract queue：
 - カブトムシ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JXP9WkaC_uc)
+2026-04-13 05:30:58 extract queue：
+- 乙女解剖 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=3Fs2H4JprYU)
