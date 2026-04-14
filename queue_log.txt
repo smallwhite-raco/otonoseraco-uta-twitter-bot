@@ -4932,3 +4932,5 @@
 - シャルル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=zEdnHJiA4iU)
 2026-04-14 05:13:01 extract queue：
 - UNDEAD / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nGGQ7SzSXrI)
+2026-04-14 06:02:28 extract queue：
+- のだ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=hI444TIG6BA)
