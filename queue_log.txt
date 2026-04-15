@@ -4954,3 +4954,5 @@
 - 明日の私に幸あれ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ImW-puWA1Jc)
 2026-04-15 06:02:28 extract queue：
 - 鬼ノ宴 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=O89y7Sk5-xM)
+2026-04-15 09:13:56 extract queue：
+- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=gV0tWurMw1Q)
