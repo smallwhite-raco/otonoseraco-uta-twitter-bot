@@ -4968,3 +4968,5 @@
 - テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=vNyBqsnktLk)
 2026-04-15 14:58:01 extract queue：
 - ラヴィ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=yOtmvxyCwoA)
+2026-04-15 15:58:12 extract queue：
+- Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=V2RxCDFu-N0)
