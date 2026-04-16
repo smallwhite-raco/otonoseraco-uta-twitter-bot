@@ -4972,3 +4972,5 @@
 - Stellar Stellar / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=V2RxCDFu-N0)
 2026-04-16 05:20:11 extract queue：
 - 東京テディベア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xswe11GhrHQ)
+2026-04-16 06:04:50 extract queue：
+- モエチャッカファイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=UU8PpIwuWKU)
