@@ -4988,3 +4988,5 @@
 - 高音厨音域テスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Yr-hciqYekQ)
 2026-04-16 15:16:39 extract queue：
 - 小さな恋のうた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cfa0ccccRG4)
+2026-04-16 16:15:18 extract queue：
+- 明日の私に幸あれ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=HYYvjVMpBG8)
