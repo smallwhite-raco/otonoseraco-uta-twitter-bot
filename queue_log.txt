@@ -4974,3 +4974,5 @@
 - 東京テディベア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=xswe11GhrHQ)
 2026-04-16 06:04:50 extract queue：
 - モエチャッカファイア / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=UU8PpIwuWKU)
+2026-04-16 09:13:33 extract queue：
+- ひゅるりらぱっぱ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=QF-BgOvhg6E)
