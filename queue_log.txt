@@ -4986,3 +4986,5 @@
 - 踊 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=6e08_FZz6DU)
 2026-04-16 15:00:25 extract queue：
 - 高音厨音域テスト / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Yr-hciqYekQ)
+2026-04-16 15:16:39 extract queue：
+- 小さな恋のうた / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Cfa0ccccRG4)
