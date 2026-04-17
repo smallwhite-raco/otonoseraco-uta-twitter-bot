@@ -4994,3 +4994,5 @@
 - ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=v_CsFp235wU)
 2026-04-17 06:05:49 extract queue：
 - Soranji / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CKEOzCNOIu8)
+2026-04-17 09:12:27 extract queue：
+- 星座になれたら / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=S1m3eQ5BiKY)
