@@ -5042,3 +5042,5 @@
 - ロミオとシンデレラ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=CIBnBQHo06Q)
 2026-04-19 14:01:27 extract queue：
 - ジレンマ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=PFLPHNGNZwg)
+2026-04-19 14:32:59 extract queue：
+- モザイクロール / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=JvpcvPswy_Q)
