@@ -5052,3 +5052,5 @@
 - 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=P8CMk2u_r4g)
 2026-04-20 11:13:52 extract queue：
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EJLQ0K4Z0tY)
+2026-04-20 12:01:34 extract queue：
+- モニタリング / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Uzkm6_7nE2w)
