@@ -5050,3 +5050,5 @@
 - 残機 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=ahD2wUZXMVk)
 2026-04-20 10:29:00 extract queue：
 - 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=P8CMk2u_r4g)
+2026-04-20 11:13:52 extract queue：
+- 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=EJLQ0K4Z0tY)
