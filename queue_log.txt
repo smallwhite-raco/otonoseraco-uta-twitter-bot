@@ -5068,3 +5068,5 @@
 - メーベル / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=0BVbYfZrhHU)
 2026-04-21 09:20:51 extract queue：
 - PPPP / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=wWC5jw2lfA4)
+2026-04-21 10:14:28 extract queue：
+- 【アカペラバラード】人工呼吸 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=4m1ogSeMr4M)
