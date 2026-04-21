@@ -5076,3 +5076,5 @@
 - ライラック / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=sJLfi7Qx7XY)
 2026-04-21 13:10:09 extract queue：
 - サマータイムレコード / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=MahZLcPPX5c)
+2026-04-21 15:03:19 extract queue：
+- 花の塔 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Hk4xHr2LMYU)
