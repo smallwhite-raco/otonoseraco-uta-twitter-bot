@@ -5084,3 +5084,5 @@
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oajRkgJUzXw)
 2026-04-22 10:14:46 extract queue：
 - テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dK3rL_sYh_Y)
+2026-04-22 10:58:04 extract queue：
+- ウミユリ海底譚 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=nckqo0nHPxc)
