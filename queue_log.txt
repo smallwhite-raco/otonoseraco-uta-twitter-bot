@@ -5082,3 +5082,5 @@
 - 悪魔の子 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dTWT75isOh8)
 2026-04-22 09:15:19 extract queue：
 - 夜明けと蛍 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=oajRkgJUzXw)
+2026-04-22 10:14:46 extract queue：
+- テトリス / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=dK3rL_sYh_Y)
