@@ -5108,3 +5108,5 @@
 - ボッカデラベリタ / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=N24al32LJW4)
 2026-04-23 11:57:24 extract queue：
 - 青と夏 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Bm0GeqDk_w0)
+2026-04-23 13:12:45 extract queue：
+- 命に嫌われている。 / 音ノ瀬らこ【歌枠切り抜き】 (https://www.youtube.com/watch?v=Us6Khdv1EZk)
